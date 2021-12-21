@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/msar/static/css/main.2bd99eb1.chunk.css",
-    "main.js": "/msar/static/js/main.d802af31.chunk.js",
-    "main.js.map": "/msar/static/js/main.d802af31.chunk.js.map",
+    "main.js": "/msar/static/js/main.8819395f.chunk.js",
+    "main.js.map": "/msar/static/js/main.8819395f.chunk.js.map",
     "runtime-main.js": "/msar/static/js/runtime-main.b4690d86.js",
     "runtime-main.js.map": "/msar/static/js/runtime-main.b4690d86.js.map",
     "static/js/2.f516c4b0.chunk.js": "/msar/static/js/2.f516c4b0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b4690d86.js",
     "static/js/2.f516c4b0.chunk.js",
     "static/css/main.2bd99eb1.chunk.css",
-    "static/js/main.d802af31.chunk.js"
+    "static/js/main.8819395f.chunk.js"
   ]
 }
