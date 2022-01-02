@@ -1,0 +1,921 @@
+ID,artist,song,album,release,danceability,energy,key,mode,valence,tempo,duration_ms,genres
+LvRgn4QRFOlJhiKN,Puma Blue,Soft Porn,Soft Porn,2017,0.667,0.221,10.0,0.0,0.128,88.206,151920,['experimental']
+ibpcxyHvTMnfx5M6,Injury Reserve,Whatever Dude,Live from the Dentist Office,2015,0.529,0.713,2.0,1.0,0.516,167.368,195827,"['rap', 'hip hop']"
+cpYAjiUPOXHAsN2O,Enter Shikari,Live Outside,The Spark,2017,0.479,0.8009999999999999,7.0,1.0,0.46,165.05200000000005,220447,[]
+uQOxRTDAwSPqg0iE,T. Rex,Debora,Live In Concert,1993,0.512,0.405,10.0,0.0,0.516,159.745,198827,[]
+fRhMRe2SpHMrgJ8h,Hüsker Dü,Eight Miles High,Eight Miles High / Makes No Sense at All (Single),1990,0.183,0.938,7.0,1.0,0.184,160.257,236093,"['post punk', 'experimental']"
+TVfVm2nPR6OUsI47,Daughters,Satan In The Wait,You Won't Get What You Want,2018,0.39,0.732,2.0,0.0,0.228,74.986,426463,[]
+EVcZoXEi7WqaLu2Y,The Promise Ring,Heart Of A Broken Story,30 Degrees Everywhere,1996,0.2269999999999999,0.61,0.0,1.0,0.638,182.963,164707,"['punk', 'screamo']"
+Mxu6HJOvwfPIi6Py,The White Stripes,A Boy's Best Friend,De Stijl,2000,0.376,0.368,3.0,1.0,0.107,74.433,262080,['rock']
+D6mwbt3fbJJu8v81,NX Zero,Intro,Norte Ao Vivo,2017,0.324,0.967,6.0,0.0,0.5920000000000001,147.99200000000005,88840,"['experimental', 'indie rock']"
+lUJHN9keOtaNGCYK,Los Espíritus,noches de verano,Los Espíritus,1013,0.639,0.512,8.0,0.0,0.598,127.451,299880,"['experimental', 'indie rock']"
+N5iZYL5Dlg6S7gKW,Stone Sour,Your God,Come What(ever) May [10th Anniversary Edition],2006,0.456,0.898,1.0,0.0,0.191,103.75,284733,"['rock', 'punk', 'post punk']"
+BIuTnbbSNvjKbX3y,Elisa,Luce (Tramonti a nord est),Asile's World,2001,0.645,0.626,5.0,1.0,0.4629999999999999,89.056,264533,[]
+CVFSeqBO8j7dytqQ,Boston,It's Easy,Don't Look Back,1978,0.379,0.6829999999999999,9.0,1.0,0.687,138.81,264133,[]
+R1Fz0WDVWDhFvRE6,Baroness,Stretchmarker,Yellow & Green,2012,0.574,0.426,7.0,0.0,0.259,84.96700000000001,203027,[]
+mNUj1OKiV5yaOMl0,Robyn,Eclipse,Robyn,2005,0.472,0.148,11.0,0.0,0.0702,117.013,211027,[]
+TceYrclZ9hCNWw8B,Paulo Diniz,Quero Voltar Pra Bahia,20 Super Sucessos,2009,0.631,0.507,4.0,1.0,0.7170000000000001,158.128,183557,['rock']
+k563NNObo7tvLBtP,The Head and the Heart,Lost In My Mind,The Head and the Heart,2011,0.375,0.546,2.0,1.0,0.37,95.361,259120,[]
+g3I2qLw2d07LUFYq,Dan Croll,Away From Today,Emerging Adulthood,2017,0.55,0.804,0.0,1.0,0.493,97.535,204436,['ambient']
+T4ONeiY76yzxAJu6,Cleopatrick,Hometown,hometown,2017,0.315,0.826,7.0,0.0,0.359,139.16299999999998,256072,['rock']
+ErfVTCSWJTFWch9t,Estrons,Lilac,"You Say I'm Too Much, I Say You're Not Enough",2018,0.314,0.857,11.0,1.0,0.431,171.858,157985,[]
+3Fbr279od4ken7aQ,5 A Seco,Antídoto,Síntese,2018,0.541,0.72,4.0,1.0,0.594,139.014,227080,['rock']
+q2fx7l7IDnYH3RfI,Derrick May,Strings of Life,Innovator,2008,0.7140000000000001,0.873,2.0,1.0,0.516,128.10299999999998,362947,"['experimental', 'ambient']"
+S3Xqv2iStI1VpZjT,Mayday Parade,Where You Are,Sunnyland,2018,0.304,0.4429999999999999,8.0,1.0,0.243,113.565,228320,['rock']
+J8TzwhM7aJ8N9p4s,Rachael Lampa,If You Believe,A Walk To Remember Music From The Motion Picture,2002,0.642,0.634,5.0,1.0,0.5429999999999999,134.019,229200,['rock']
+tVtaJ8mpjPULpi5M,Simple Plan,Opinion Overload,Taking One For The Team,2016,0.428,0.958,2.0,1.0,0.375,195.938,199013,[]
+ID5guBOAsko0CuLv,The Birthday Massacre,Walking With Strangers,Walking With Strangers,2007,0.511,0.888,3.0,0.0,0.385,96.016,221267,"['rock', 'post punk', 'alternative rock']"
+FfC1laDERzXHoxJh,Hiatus Kaiyote,Swamp Thing,Choose Your Weapon,2015,0.508,0.585,4.0,0.0,0.568,93.235,299653,[]
+vYzLmRvsaRzhsLZN,Marisa Monte,Não é fácil,"Memorias Cronicas E Declaracoes De Amor ""Textos, Provas E Desmentidos""",2000,0.624,0.598,4.0,1.0,0.649,81.17399999999998,187160,['latin']
+cPieBk57rAbhnlVP,Mato Seco,Pedras Pesadas,Seco e Ainda Vivo,2013,0.914,0.462,11.0,0.0,0.627,130.003,166547,"['rock', 'progressive rock', 'psychedelic rock']"
+maos20qHZ9KXmiGB,Hüsker Dü,I Apologize,New Day Rising,1985,0.335,0.927,7.0,1.0,0.4589999999999999,100.792,217427,[]
+7tdSLfNGen2GHnJ2,Dean Blunt,MOLLY & AQUAFINA,Black Metal,2014,0.418,0.103,5.0,1.0,0.0979,110.166,246320,"['experimental', 'folk']"
+lBi4UCZrZhOYdVvB,High Sunn,Ramen Waitress,Hopeless Romantic EP,2017,0.544,0.81,7.0,1.0,0.6679999999999999,94.996,150244,[]
+l0fTHaJSjQ1IyX76,Jessie J,Personal,Sweet Talker (Deluxe Version),2014,0.491,0.625,9.0,1.0,0.45,136.019,234907,[]
+LuhSeSOVoJuvQT5B,The Julie Ruin,Ha Ha Ha,The Punk Singer (Original Motion Picture Soundtrack),2015,0.306,0.7609999999999999,4.0,0.0,0.4479999999999999,172.553,196461,"['rock', 'alternative rock']"
+IsevgJH0eCI35QWt,Robbie Williams,I Just Want People To Like Me,I Just Want People To Like Me,2018,0.532,0.8290000000000001,9.0,1.0,0.741,142.94299999999996,193027,[]
+Qbus1NSW0A9vhkuM,Ashbury,Vengeance,Endless Skies,2007,0.349,0.659,0.0,1.0,0.687,142.21,243680,['progressive rock']
+S0x7FoAk4Arl5wdS,Plini,Cascade,Handmade Cities,2016,0.498,0.843,6.0,1.0,0.457,129.95600000000002,360120,[]
+CDz2fynAE82KGBhX,Mc TH,Apaga a luz e toma,Apaga a Luz e Toma,2016,0.843,0.7120000000000001,2.0,1.0,0.5379999999999999,130.072,181211,"['rap', 'pop']"
+HjITY4PPBCENkdqC,Oxxxymiron,Полигон,ГОРГОРОД,2015,0.7040000000000001,0.7490000000000001,1.0,0.0,0.4370000000000001,175.783,220416,['pop']
+jVDTaa73n2wEtUUk,Foetus,Lust for Death,Hole,1984,0.645,0.951,4.0,0.0,0.481,107.875,218413,[]
+yarhqvOSD18gKeUy,Nine Inch Nails,Only,With Teeth,2005,0.7170000000000001,0.797,9.0,0.0,0.961,112.129,263093,['rock']
+sYwvPempK1tPQtjp,Swans,The Final Sacrifice,Soundtracks For The Blind,2001,0.171,0.3339999999999999,9.0,1.0,0.173,138.96,627733,"['ambient', 'singer songwriter']"
+7ADRv6FizTh4ZquP,Beastie Boys,Fight for Your Right,Licensed To Ill,1986,0.6729999999999999,0.72,8.0,1.0,0.6,133.62,207400,['pop']
+icYuPkgqWmzinT7H,Insomnium,"Winter's Gate, Pt. 7",Winter's Gate,2016,0.182,0.78,11.0,0.0,0.066,129.371,378381,[]
+bpqrZkYx7SjbnOro,Malú,Lejos de Ti,Oxígeno,2018,0.531,0.644,7.0,0.0,0.348,170.06,178883,['experimental']
+xkWhqvmzlY2tyIMB,Aphex Twin,PAPAT4 [155][pineal mix],Syro,2014,0.6679999999999999,0.914,10.0,0.0,0.6629999999999999,155.019,258973,[]
+Lz5rZyy9rKeValZZ,Velvet Acid Christ,Black Rainbows,The Art Of Breaking Apart,2009,0.601,0.953,4.0,0.0,0.7979999999999999,116.969,274840,"['metal', 'post punk', 'indie rock', 'shoegaze']"
+GJo8j4EVhBhNs2yk,The Shins,The Celibate Life,"Oh, Inverted World",2001,0.371,0.513,2.0,1.0,0.545,100.893,110547,[]
+aJc2iUAYrCaf0GQE,Kamelot,Nights Of Arabia,The Fourth Legacy,1999,0.345,0.931,11.0,1.0,0.104,149.994,324813,"['folk', 'singer songwriter']"
+ENNcM7yhfinLdaNm,Bailey Bryan,Perspective,Perspective,2019,0.491,0.499,10.0,0.0,0.518,135.865,223507,[]
+zWulGAuif5nC6yqe,McFly,Home Is Where the Heart Is,Motion In The Ocean,2006,0.401,0.66,7.0,1.0,0.353,142.119,271600,['rock']
+07DgzvdwswlSllK2,O Teatro Mágico,Realejo,Entrada para Raros (10th Anniversary Edition),2016,0.741,0.2319999999999999,4.0,1.0,0.302,114.98,323827,"['folk', 'mpb', 'latin']"
+eSbySKagDLj4JQ1A,Scandroid,Monochrome,Dreams In Monochrome (Deluxe Edition),2018,0.544,0.71,0.0,1.0,0.108,122.028,319250,[]
+xRfGjudnYZNiYFM9,Chelsea Wolfe,Two Spirit,Hiss Spun,2017,0.317,0.249,2.0,0.0,0.3279999999999999,174.176,304095,['experimental']
+CJkSYIUOtzB1IKTS,Deacon Blue,Dignity,Raintown,1987,0.598,0.5870000000000001,5.0,1.0,0.622,105.144,238440,['rock']
+I0dRLgFIxq0VBQG3,The Amity Affliction,Youngbloods,Youngbloods,2011,0.421,0.995,8.0,0.0,0.0733,134.951,229560,[]
+2bYvZO0V7L03pnMC,The Courtneys,Minnesota,The Courtneys II,2017,0.203,0.821,5.0,1.0,0.414,140.785,220719,"['rock', 'post punk', 'indie rock']"
+avNXrFuXcjRVyDVO,The Raveonettes,She Owns the Streets,Observator,2012,0.4679999999999999,0.8,5.0,0.0,0.4320000000000001,120.011,182440,[]
+zotPD93Doet5LlS6,Timber Timbre,LES EGOUTS,Les Egouts,2017,0.251,0.4029999999999999,4.0,0.0,0.0668,169.96400000000003,184977,[]
+1Q2CApxDmLDPkoDY,Midlake,Van Occupanther,The Trials Of Van Occupanther,2008,0.557,0.7040000000000001,8.0,0.0,0.565,121.742,286880,[]
+xTWBwYyQ7eGAXzi0,Washed Out,Entrance,Paracosm,2013,0.481,0.351,2.0,1.0,0.637,119.872,81120,['indie rock']
+bDIcC2l2eL8OY5rG,The Books,Take Time,The Lemon of Pink (Remastered),2011,0.706,0.6779999999999999,2.0,0.0,0.555,90.022,216680,[]
+SlF31W7VgEooOonD,Elton John,Island Girl,Rock Of The Westies,1975,0.703,0.889,10.0,1.0,0.47,139.92,222093,['rock']
+2leXj50v1cWMcYVW,The Pigeon Detectives,Romantic Type,Wait for Me,2007,0.361,0.934,4.0,1.0,0.7390000000000001,119.615,157067,['indie rock']
+2W0I2ph73truYj0T,Toby Driver,The Knot,They Are the Shield,2018,0.2289999999999999,0.19,0.0,0.0,0.104,125.605,252213,['folk']
+ToPWWrW04Y9Wp7iw,Envy,Your Shoes and the World to Come,All The Footprints You've Ever Left And The Fear Expecting Ahead,2008,0.3339999999999999,0.914,2.0,0.0,0.0398,123.588,483123,"['post punk', 'post hardcore']"
+BgvZwMXrJwvNseVr,Idiot Pilot,The Pushover,Blue Blood,2019,0.498,0.775,9.0,1.0,0.242,139.968,250844,['metal']
+jpOpFL7WM44XP0ya,Arctic Monkeys,Temptation Greets You Like Your Naughty Friend,Brianstorm,2007,0.606,0.895,4.0,0.0,0.7859999999999999,140.40200000000002,209240,[]
+E0hwEHsJu0HyoSBr,5 A Seco,lua cheia,Síntese,2018,0.51,0.301,11.0,0.0,0.638,154.178,218560,[]
+MEzkg86XcuemH2vD,Motorama,Empty Bed,Alps,2013,0.515,0.769,0.0,1.0,0.315,148.042,204587,"['experimental', 'folk', 'singer songwriter']"
+uSPCHtFMpkIN23X0,Noah and the Whale,Love Of An Orchestra,The First Days Of Spring,2009,0.5429999999999999,0.659,2.0,1.0,0.94,157.885,123173,['indie rock']
+1zPlURtI4cLV5Qfz,Taj Mahal,Queen Bee,Señor Blues,1997,0.635,0.4539999999999999,0.0,0.0,0.531,79.097,280080,['rock']
+2ijtkUmiRXEGtqT5,Laura Pausini,Il tuo nome in maiuscolo,Resta in ascolto,2004,0.352,0.422,6.0,0.0,0.0906,111.634,199088,"['rock', 'alternative rock']"
+lg0M65TJ5BHzCvbm,Mötley Crüe,Wild Side,"Girls, Girls, Girls",1987,0.596,0.8959999999999999,0.0,1.0,0.456,115.092,281960,['metal']
+T8an7POsCbSFjv8Y,Blut aus Nord,The Son of Hoarfrost,Ultima Thulée,2005,0.324,0.963,2.0,1.0,0.0622,150.606,361360,"['ambient', 'contemporary classical']"
+udScHNRDGNMObe7p,Christina Aguilera,Somebody's Somebody,Christina Aguilera (Expanded Edition),1999,0.746,0.627,8.0,0.0,0.604,100.484,302333,['pop']
+fOGztc3cuycCx2cz,Steps,Summer Of Love,Buzz,1999,0.665,0.84,9.0,0.0,0.642,130.039,232653,[]
+AVEQPZMRLKL8mj67,Youth Lagoon,The Hunt,The Year of Hibernation,2011,0.477,0.53,5.0,1.0,0.0394,126.954,265800,"['post rock', 'lo fi', 'indie pop', 'ambient', 'shoegaze', 'dream pop', 'post metal']"
+5qU4WICnVek9ov8Z,Terror Jr,Useless,Bop 3: The Girl Who Cried Purple,2017,0.8079999999999999,0.573,4.0,1.0,0.491,122.039,161538,[]
+gEQNtWfZRDszRsFo,The Dillinger Escape Plan,Crutch Field Tongs,Miss Machine,2004,0.35,0.639,1.0,1.0,0.0398,165.96200000000005,52920,"['rock', 'experimental']"
+tlNHOEBEfJ6kv8cd,Glee Cast,No Air,"Glee: The Music, Volume 1",2009,0.472,0.764,11.0,1.0,0.489,160.08,262667,['pop']
+pXlFEGCT6fukZDIn,Allman Brown,sons and daughters,1000 Years,2017,0.525,0.461,5.0,0.0,0.2019999999999999,147.997,216052,[]
+xs3dU3LJ0V5peOQ0,Visions of Atlantis,Prayer to the Lost,The Deep & The Dark,2018,0.316,0.344,7.0,1.0,0.1669999999999999,105.952,250920,"['folk', 'singer songwriter']"
+rc8PYpsvaD5ZdZAx,Owl City,Plant Life,All Things Bright And Beautiful,2011,0.396,0.725,10.0,1.0,0.505,159.931,250813,[]
+MRZQuzidKal81iKd,H.E.A.T,1000 Miles,Heat,2008,0.605,0.961,11.0,0.0,0.561,126.035,184680,[]
+4PnDUzat0rBBHoUw,Emilie Autumn,The Art of Suicide,The Opheliac Companion,2009,0.5760000000000001,0.187,0.0,1.0,0.573,84.43299999999998,2764199,[]
+SX98DFmUINX1sgRi,John Mayer,Belief,Continuum,2006,0.664,0.7340000000000001,5.0,1.0,0.84,101.348,242333,['folk']
+ywbA22jkoOENPrLv,The White Stripes,I'm Finding It Harder to Be a Gentleman,White Blood Cells,2001,0.5579999999999999,0.529,0.0,1.0,0.3670000000000001,80.205,174333,['rock']
+lHFRRr1LUW4WT9uM,VNV Nation,Electronaut,Futureperfect,2002,0.3879999999999999,0.7559999999999999,10.0,0.0,0.0941,134.02100000000002,395040,[]
+hZC3dADKDNZl4Mu8,Mis-Teeq,Why? - UK Garage MC Radio Edit,Lickin' On Both Sides,2001,0.828,0.674,10.0,0.0,0.972,129.94,200907,['pop']
+R8Ko2XZ3km0vqLxU,Depeche Mode,Lilian,Playing The Angel (U.S. Release),2005,0.63,0.836,6.0,1.0,0.7140000000000001,129.941,285760,['rock']
+IlEvqTG5ZdZJuuvL,Dan Hartman,Instant Replay,Keep The Fire Burnin',1994,0.754,0.7240000000000001,9.0,0.0,0.954,128.925,320333,[]
+dMPFFpmdovr1F2jY,Tegan and Sara,Everything Is AWESOME!!!,The Lego Movie (Original Motion Picture Soundtrack),2013,0.698,0.96,8.0,1.0,0.738,147.999,163423,[]
+zHYjWp8jsREhCRuF,Deer Tick,Ashamed,War Elephant,2007,0.643,0.526,0.0,1.0,0.222,119.998,132973,['folk']
+iQ0B0STmKrFk4H2r,Hermit and the Recluse,Sirens,Orpheus vs. the Sirens,2018,0.322,0.645,11.0,1.0,0.631,133.064,194693,[]
+RILAfm3ccuYshqTJ,Nada Surf,Enjoy the Silence,if I had a hi-fi,2010,0.397,0.8540000000000001,6.0,1.0,0.3429999999999999,135.942,201267,['folk']
+6wAKM53TBAfUsOub,Hot Mulligan,Good Ol’ Mr. Rags,Pilot,2018,0.525,0.93,2.0,1.0,0.45,146.907,189421,"['emo', 'pop punk']"
+XouPkWUSEFZT8wmZ,D12,Lies & Rumors,Shark Tale (Motion Picture Soundtrack),2004,0.898,0.82,8.0,1.0,0.925,115.004,260293,"['rock', 'rap', 'hip hop']"
+hArj0gNFsLCVpXCT,Halestorm,Here's to Us,The Strange Case of... (Deluxe),2012,0.514,0.866,0.0,1.0,0.45,159.97299999999996,177547,['pop']
+cjJf9nKZbPPH9jNr,David Guetta,Memories,One Love (Deluxe Version),2009,0.544,0.87,8.0,1.0,0.502,129.984,210093,['rap']
+TVBkXuZqAVJU9Wpk,Ulcerate,Chasm of Fire,Shrines of Paralysis,2016,0.204,0.964,5.0,1.0,0.0497,116.021,487957,"['metal', 'hardcore']"
+lA6zw3vdfDVODQSs,Judy Kuhn,Just Around The Riverbend,Pocahontas,1995,0.411,0.183,0.0,1.0,0.2239999999999999,65.092,147707,['pop']
+t6w4767AvNUTud9S,Grave Digger,Rebellion (The Clans Are Marching),Masterpieces,2002,0.3979999999999999,0.828,4.0,0.0,0.1889999999999999,131.84799999999998,244107,['rock']
+mxgylxRPIS0OoAao,Clairy Browne & The Bangin' Rackettes,I'll Be Fine,Baby Caught The Bus,2013,0.275,0.818,10.0,1.0,0.511,190.362,189693,[]
+7Aph5a0xkADGa11l,Karyn White,One Minute,Make Him Do Right,1994,0.504,0.502,7.0,1.0,0.301,168.218,294667,"['rock', 'pop', 'singer songwriter']"
+6tXNnDWUZaLTMbLC,Grave Digger,Zombie Dance,The Living Dead (Bonus Track Version),2018,0.534,0.963,9.0,0.0,0.527,150.048,226900,"['metal', 'power metal', 'symphonic metal']"
+pQHONANjxW9jCwgW,Morrissey,Spent The Day In Bed,Low in High School,2017,0.612,0.598,1.0,1.0,0.569,88.01700000000002,211280,['hip hop']
+YshKcqp6AJxoKYN3,Ólöf Arnalds,Surrender,Innundir Skinni,2010,0.752,0.1689999999999999,11.0,0.0,0.802,118.523,323213,"['singer songwriter', 'latin']"
+3Idf0Ywuvnl3yAgy,Jake Bugg,Me and You,Shangri La,2013,0.364,0.711,1.0,0.0,0.431,200.739,177560,['rock']
+RKDYcpw1eEIucJEf,Kelis,Jerk Ribs,Food,2014,0.778,0.737,0.0,1.0,0.882,110.973,252813,"['pop', 'latin', 'latin pop']"
+9xXdy6NpwBh5yVPO,Scandroid,A Thousand Years,Monochrome (Deluxe Edition),2017,0.531,0.878,1.0,0.0,0.593,134.999,273037,['pop']
+heNTx0xvVXs32ICQ,The Gathering,Great Ocean Road,How to Measure a Planet? (Deluxe Edition),1999,0.423,0.6609999999999999,7.0,0.0,0.149,140.751,379827,[]
+zkOdnzh0o8m7zfX7,Deerhoof,Con Sordino,Mountain Moves,2017,0.821,0.825,2.0,0.0,0.943,127.096,187098,['experimental']
+N35plPlo6qOP7IlY,Los Amigos Invisibles,Viviré para ti,Commercial,2009,0.72,0.727,11.0,0.0,0.951,111.99,207213,['pop']
+7Pg5wxB8YYtxIiT7,Cher,Mamma Mia,Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack),2018,0.6809999999999999,0.655,0.0,1.0,0.901,124.996,231480,['pop']
+MLRindldfxsGoC8g,Vanessa da Mata,Impossível Acreditar Que Perdi Você - Leo Breanza Remix,Impossível Acreditar Que Perdi Você (Leo Breanza Remix),2017,0.701,0.867,7.0,1.0,0.862,160.014,150000,"['folk', 'singer songwriter', 'jazz']"
+Oeyi8GC64KPCtm6m,Shaggy,In The Summertime,The Best Of Shaggy,2008,0.721,0.894,1.0,1.0,0.963,173.59099999999995,238067,[]
+O0L20lvwMeIawcEj,Iceage,Interlude,You're Nothing,2013,0.391,0.688,9.0,1.0,0.0634,109.838,103387,['experimental']
+v8Nv4QDbzb52rETB,Spongebob Squarepants,Gary's Song,SpongeBob's Greatest Hits,2001,0.696,0.387,7.0,1.0,0.823,80.866,145707,['post punk']
+Bl6czQtTnahOAg2V,Yellowman,Lost Mi Love,Mister Yellowman,1982,0.841,0.669,10.0,0.0,0.919,147.99200000000005,310733,"['rap', 'hip hop']"
+laQM7IFM0JB94RjR,Silverchair,Shade - Remastered,Frogstomp 20th Anniversary (Deluxe Edition [Remastered]),2015,0.342,0.585,0.0,1.0,0.366,141.58700000000005,242093,[]
+O0RApPfIhvDT1B7w,Jermaine Jackson,Do What You Do,Essential - 80's Love,2010,0.573,0.462,1.0,0.0,0.3989999999999999,112.682,252547,[]
+kGGHyhyV9C5h0met,Thursday,Autumn Leaves Revisited,A City By The Light Divided,2006,0.2269999999999999,0.496,2.0,0.0,0.13,162.062,414040,"['progressive rock', 'metal']"
+lGgT4gbM8xloX2e9,Romero Ferro,Dropsatã,Arsênico,2016,0.696,0.84,5.0,0.0,0.92,128.156,175806,['swing']
+36bH1xyw3L0z9Tzo,Paul Simon,Congratulations,Paul Simon,1972,0.5329999999999999,0.171,9.0,1.0,0.151,94.474,223400,[]
+jX1YvAhORvaGkXzP,Cat Power,Nothin But Time,Sun,2012,0.477,0.799,5.0,1.0,0.176,95.855,655200,['rock']
+4eCkTZc6Y66IqEZK,Of Mice & Men,You Make Me Sick,Restoring Force: Full Circle,2015,0.564,0.897,2.0,0.0,0.336,109.036,201587,"['metal', 'hard rock']"
+HTsHNWjZ7j7bSGni,Automelodi,La Poussière,Mirages au futur verre-brisé,2019,0.578,0.81,10.0,0.0,0.949,121.015,265047,['ambient']
+JjDd7iPCeks0Ze4B,Zara Larsson,One Mississippi,So Good,2017,0.52,0.512,0.0,0.0,0.321,147.963,187907,['rap']
+pTzQXJEPCYRLHLZx,Sleigh Bells,End of the Line,Reign of Terror,2012,0.428,0.937,7.0,1.0,0.575,141.97,218067,[]
+D1zJwrr3z1feMntO,Speech Patterns,Disappear,Without a Sound,2017,0.477,0.545,5.0,0.0,0.049,135.085,259897,['soundtrack']
+RycfXjj5u4KvFwRC,The Brian Jonestown Massacre,Panic In Babylon,Aufheben,2012,0.465,0.884,11.0,1.0,0.288,128.284,278827,"['rock', 'progressive rock']"
+4QOwaVDTloe33x0K,Incubus,Thieves,"If Not Now, When?",2011,0.542,0.7929999999999999,7.0,1.0,0.6709999999999999,155.965,256987,"['rock', 'post punk']"
+ZVZJSgrlItMm2BwP,Mount Kimbie,Tunnelvision,Crooks & Lovers,2010,0.38,0.7240000000000001,9.0,0.0,0.0837,104.751,108465,['experimental']
+KOWxCTU7xouRAVOz,Aphex Twin,piano un10 it happened,Computer Controlled Acoustic Instruments pt2 EP,2015,0.645,0.14,1.0,1.0,0.347,76.20100000000002,108011,"['soundtrack', 'ambient', 'contemporary classical']"
+4G2iyjSe8PYaMumg,"The Good, the Bad & the Queen",Green Fields,"The Good, The Bad and The Queen",2007,0.251,0.498,7.0,0.0,0.352,88.838,150000,['rock']
+hHPZBJRAmgNpAVMt,Kelis,Change,Change / Runnin' / Forever Be - Remixes,2014,0.534,0.782,2.0,0.0,0.305,160.035,314416,['ambient']
+5kaKCbWizHhpO1P9,Robbie Robertson,Somewhere Down the Crazy River,Robbie Robertson,1987,0.38,0.37,5.0,0.0,0.7,81.66199999999998,297867,['rock']
+U5zyv3OmtLlUfh20,Tame Impala,Why Won't You Make Up Your Mind? (Erol Alkan Rework),InnerSpeaker B-Sides & Remixes,2011,0.6729999999999999,0.629,5.0,1.0,0.512,128.977,494047,[]
+8wI6bC6UxW9FGi5N,Angra,The Shaman,Holy Land,1996,0.51,0.918,0.0,1.0,0.228,93.999,325733,[]
+5QEI9kdk62cYDv9c,A$AP Rocky,Angels,LONG.LIVE.A$AP (Deluxe Version),2013,0.78,0.738,0.0,0.0,0.539,120.547,227080,"['rap', 'hip hop']"
+GqMttwesqnOARjXs,Actress,R.I.P.,R.I.P.,2012,0.231,0.48,9.0,1.0,0.0509,131.941,76773,"['ambient', 'downtempo']"
+pdVTRk30QFf9MJ3j,Cryptopsy,Sire of Sin,The Book of Suffering - Tome II,2018,0.253,0.984,0.0,1.0,0.1,112.774,266739,['metal']
+5DVXQV5VCmkArLPO,Soundgarden,Gun,Louder Than Love,1989,0.353,0.89,9.0,1.0,0.258,105.128,282107,"['rock', 'post punk', 'alternative rock', 'classic rock', 'hard rock']"
+YowoW4qGtMl46Oh4,Barasuara,Menunggang Badai,Taifun,2015,0.5479999999999999,0.8759999999999999,0.0,1.0,0.6990000000000001,94.016,303085,"['punk', 'post hardcore']"
+A1rcprQAttxeBve6,Wanda Jackson,Funnel of Love,Heart Trouble,2003,0.623,0.6579999999999999,1.0,0.0,0.81,126.867,152933,[]
+BUoXUWfrfsKooQyy,blink-182,Strings,Cheshire Cat,1994,0.344,0.8540000000000001,0.0,1.0,0.544,131.746,145760,['experimental']
+KTWFai31wBlSrShI,Talos,Your Love Is An Island,Your Love Is an Island,2016,0.366,0.252,0.0,1.0,0.131,97.633,245538,"['folk', 'singer songwriter']"
+T8xmEVNtct8u8CN4,Cymande,Getting It Back,Cymande,1972,0.659,0.586,6.0,1.0,0.652,91.657,257760,"['experimental', 'hip hop']"
+gnx9FQwB3kFqhQaU,The Wldlfe,I Don't Mind,I'm Not Worried Anymore,2018,0.5770000000000001,0.7070000000000001,7.0,1.0,0.273,110.02,218467,['pop']
+C4kZ5cM97xLsrWkH,Da pawn,Cambio de Tonalidad,El Peón,2013,0.376,0.435,2.0,0.0,0.304,80.002,232053,['experimental']
+JWrjTfIwImdfdc7M,Marina,Baby,Rouf,2016,0.325,0.133,0.0,1.0,0.12,63.885,266170,[]
+hQzRvB5pVakRNBIt,Julian Lamadrid,Lifestyle,Lifestyle,2018,0.626,0.484,0.0,1.0,0.4370000000000001,135.94799999999998,225000,[]
+1Rn5G0gL1K0m4gFQ,Milton Nascimento,Canção Amiga,Clube Da Esquina 2,1978,0.352,0.188,10.0,0.0,0.3829999999999999,197.586,153867,['rock']
+tPU0wT7CIOkJ8ITk,Enya,Miss Clare Remembers,Watermark,1988,0.3339999999999999,0.0193,5.0,1.0,0.297,120.316,119351,['ambient']
+kJ7w7A3px0hNMUA2,Deadland Ritual,Down in Flames,Down in Flames,2018,0.215,0.909,4.0,0.0,0.517,102.544,268313,"['rock', 'metal', 'hard rock']"
+zUP4kqlxI90wLAJZ,PassCode,Seize the day!!,Locus,2018,0.546,0.952,2.0,1.0,0.5589999999999999,95.045,252947,[]
+qjiXJYwPNoWFC0LS,Camp Claude,Swimming Lessons,Swimming Lessons,2016,0.589,0.6609999999999999,0.0,1.0,0.52,111.958,235360,['pop']
+VkxvKHacOt0QMWEG,Julee Cruise,The World Spins,Floating Into The Night,1989,0.203,0.0306,4.0,1.0,0.0371,149.94799999999995,398067,"['folk', 'singer songwriter']"
+lLdr2gkaYZNvFHWI,Broken Back,Happiest Man on Earth - Radio Edit,"Dear Misfortune, Mother of Joy - EP",2015,0.7609999999999999,0.7090000000000001,8.0,0.0,0.777,119.997,183480,[]
+1kXqEzvlxmQjRgcq,Queen,Rain Must Fall - Remastered 2011,The Miracle (Deluxe Remastered Version),1989,0.723,0.797,7.0,1.0,0.965,112.023,263293,[]
+4EyPfFHYXkFI5xcM,Perfume Genius,My Body,Too Bright,2014,0.713,0.3329999999999999,8.0,1.0,0.154,110.747,137600,[]
+UlrwZZnEDlbAJxhS,Seapony,With You,Go With Me,2011,0.731,0.846,11.0,1.0,0.963,141.344,136933,['rock']
+WJoyJHCzlCVGrXwC,Elis Regina,Boa Noite Amor,Elis,1972,0.2769999999999999,0.157,0.0,1.0,0.0992,78.619,142493,[]
+tCKJg9YRMEDEWCfd,"Slaughter Beach, Dog",Acolyte,Birdie,2017,0.789,0.476,9.0,1.0,0.773,123.977,316468,"['rock', 'folk', 'singer songwriter']"
+Z8ReE13M1t3y0K6b,The Mountain Goats,Broom People,The Sunset Tree,2005,0.541,0.5720000000000001,4.0,1.0,0.321,77.414,164587,"['indie rock', 'indie pop', 'folk']"
+73SEgPDFxWeE04Up,Mc Hariel,Tempo Perdido,Tempo Perdido,2016,0.903,0.902,5.0,1.0,0.8540000000000001,130.031,177293,['latin']
+L8Og27BahD91hNM6,Gus Dapperton,Of Lacking Spectacle,13 Reasons Why (Season 2),2018,0.5870000000000001,0.599,2.0,1.0,0.545,97.974,204587,[]
+aiitiMQSSlvJDqpD,Owen,Empty Bottle,The King of Whys,2016,0.612,0.51,0.0,1.0,0.182,79.988,267046,"['post punk', 'metalcore']"
+QG2f7DCwPKmjUvYN,Abul Mogard,Half Light Of Dawn,Circular Forms,2015,0.14,0.0212,7.0,0.0,0.0376,80.73899999999998,408970,"['indie pop', 'dream pop']"
+cIkjWegPgHcagCTl,Chelsea Wolfe,The Way We Used To,Unknown Rooms: A Collection of Acoustic Songs,2012,0.261,0.278,2.0,0.0,0.255,179.21200000000005,167729,['jazz']
+263HHRLQdg2hS0ix,The Flaming Lips,My Cosmic Autumn Rebellion,At War With The Mystics,2006,0.324,0.691,10.0,1.0,0.123,80.132,289000,[]
+Wi0DHQrOYDWj6ysE,Veronica Falls,Teenage,Waiting for Something to Happen,2013,0.292,0.845,0.0,1.0,0.5329999999999999,141.972,171572,['experimental']
+7In2FwlNsTg1EVJ2,Kylie Minogue,Heaven and Earth,Enjoy Yourself,1989,0.573,0.72,10.0,1.0,0.4970000000000001,115.193,224133,[]
+TOaF9nesxdrvOPJ4,the GazettE,D.L.N,Traces Vol. 2,2017,0.442,0.8690000000000001,2.0,0.0,0.581,172.03,375800,['metal']
+voBPR8Jtb6DWvHNS,Ines Brasil,Make Love,Make Love,2015,0.845,0.6509999999999999,9.0,0.0,0.79,130.03,203063,[]
+Nyw1U4tqnC8jI3gQ,Shining,Gyllene Portarnas Bro,X Varg Utan Flock,2018,0.41,0.961,2.0,0.0,0.351,140.063,399205,['metal']
+ttedbsf5ay7fTqMD,Jasper TX,This Barren Land,Singing Stones,2009,0.0687,0.021,7.0,1.0,0.0816,79.241,361253,"['soundtrack', 'folk', 'ambient']"
+aJr2lh3ZpCuR14RG,A Perfect Circle,The Outsider,Thirteenth Step,2003,0.3279999999999999,0.8420000000000001,6.0,1.0,0.422,113.329,246000,[]
+DNyrRkt2dB3Hvdep,Crown the Empire,Hologram,Retrograde,2016,0.483,0.908,2.0,0.0,0.271,134.622,225853,[]
+nfg1qlU6t9LFGjJ4,Pearl Jam,Cready Stomp - bonus track,Vs.,1993,0.3329999999999999,0.936,0.0,1.0,0.537,184.421,201147,['metal']
+TurYrtIXHoLe4bSf,Lisa Ajax,I Don't Give A,I Don't Give A,2017,0.477,0.589,4.0,1.0,0.299,139.572,179413,['pop']
+L8fjE154KuqF8Vza,Boards of Canada,Dayvan Cowboy (Odd Nosdam Remix),Trans Canada Highway,2006,0.0703,0.173,11.0,1.0,0.0401,77.568,559320,"['experimental', 'post rock', 'ambient']"
+Ujg26LrPqXFEknbA,Morphine,A Head With Wings,Cure For Pain,1993,0.4920000000000001,0.55,0.0,1.0,0.6890000000000001,125.13,219627,[]
+8EL5de74LBtL2e1N,Alice Merton,Jealousy,No Roots EP,2018,0.636,0.547,3.0,0.0,0.285,129.955,219648,['singer songwriter']
+Xi75LXSGAxIM7A1b,Awaken I Am,Blind Love,Blind Love,2017,0.488,0.946,6.0,1.0,0.5529999999999999,149.957,227533,['pop']
+nXggOWnGAPwpr3vV,Shadow Of Intent,The Indexing,Primordial,2016,0.392,0.97,5.0,1.0,0.0398,149.923,281612,"['metal', 'black metal']"
+QJpDioxqPFlspwoC,Silverchair,Paint Pastel Princess,Neon Ballroom,1999,0.1889999999999999,0.669,8.0,1.0,0.1969999999999999,166.18099999999995,273600,['rock']
+IGxc6VHEYC9y5RYY,Turma do Pagode,Surpresa de Amor - Ao Vivo,Mania do Brasil (Ao Vivo),2014,0.655,0.743,9.0,1.0,0.877,85.02600000000002,189120,['rock']
+vKV6TM3C6C90mna2,Set Your Goals,Certain,Burning At Both Ends,2011,0.361,0.89,4.0,1.0,0.501,185.961,181893,[]
+OLqLF2XZ5aqzke35,Glee Cast,Over the Rainbow,"Glee: The Music, Journey To Regionals",2010,0.498,0.352,0.0,1.0,0.472,166.028,151920,"['folk', 'singer songwriter']"
+809dOejNmDmaivZX,Nina Nesbitt,Tough Luck,Peroxide (Deluxe),2013,0.604,0.727,3.0,0.0,0.4970000000000001,94.997,198614,"['experimental', 'folk', 'singer songwriter']"
+YMEXQQUQqlY6GNFN,Jolie Holland,Old Fashioned Morphine,Escondida,2004,0.495,0.24,4.0,0.0,0.27,115.694,275400,"['folk', 'singer songwriter']"
+OTku31L0oFEaEV4q,Don Broco,Pretty,Technology,2018,0.7040000000000001,0.8740000000000001,9.0,0.0,0.607,107.549,215613,[]
+p1KZndF2jJYvhF1o,Marlon Williams,Nobody Gets What They Want Anymore,Make Way for Love,2018,0.326,0.315,4.0,1.0,0.128,145.865,299015,"['indie rock', 'folk']"
+7ZqcEBEIhzQk6WC4,Pet Shop Boys,I Made My Excuses and Left,Fundamental: Further Listening 2005 - 2007 (2017 Remastered Version),2006,0.24,0.51,0.0,0.0,0.0863,140.055,293040,[]
+gODs7flDywPXVijW,Father John Misty,Pure Comedy,Pure Comedy,2017,0.4629999999999999,0.271,4.0,1.0,0.159,130.372,383800,['folk']
+sN66qoRGSuLY7zAj,Hercules and Love Affair,Iris,Hercules & Love Affair,2008,0.6829999999999999,0.597,8.0,1.0,0.83,94.011,255560,[]
+3w7875qpeu1Bzp99,Rufus Wainwright,California,Poses,2001,0.482,0.621,4.0,1.0,0.5920000000000001,121.692,203427,"['pop', 'folk']"
+S3cZ64sXsCJgcG58,Liam Gallagher,Universal Gleam,As You Were (Deluxe Edition),2017,0.422,0.649,8.0,1.0,0.313,77.517,247603,['rock']
+orVANz3iqnM4O6iQ,Allie X,Girl of the Year,Super Sunset,2018,0.563,0.934,7.0,1.0,0.419,109.046,224083,['pop']
+gKcFXKO7MgP8HFqn,gugudan,Silly,Act.4 Cait Sith,2018,0.787,0.861,8.0,1.0,0.654,125.012,240652,"['pop', 'k pop']"
+Qv655IvJXLVfllkE,J Dilla,Gobstopper,Donuts,2006,0.368,0.7909999999999999,2.0,1.0,0.723,174.28400000000005,65173,['rock']
+G65REgI0nvCpiopf,Étienne Daho,Les Chansons De L'Innocence,Diskönoir (Live),2014,0.561,0.924,8.0,0.0,0.7,110.035,273204,['rock']
+kGFWXf0oB62V9eEu,Swervedriver,Sci-Flyer,Raise,1991,0.203,0.93,9.0,1.0,0.3329999999999999,141.584,312360,['experimental']
+6VDM3q5I6wMor7rH,Alter Bridge,All Ends Well,Fortress,2013,0.166,0.9,1.0,1.0,0.442,189.611,312423,['rock']
+yPpI5DqqXeYm039f,Hayden Calnin,Not Good For Me,"Oh, Hunter",2014,0.411,0.195,0.0,1.0,0.135,180.043,281193,"['folk', 'singer songwriter', 'indie folk']"
+aqvdA7rqPKdddPyN,Raffa Moreira,Eles Me Devem,Eles Me Devem,2017,0.747,0.731,0.0,1.0,0.4579999999999999,145.915,149159,"['rap', 'hip hop']"
+O2qGJ8aWViEoO190,Sorriso Maroto,Amanhã,De Volta Pro Amanhã,2016,0.579,0.4920000000000001,0.0,1.0,0.4270000000000001,162.075,221693,[]
+meoJbwVitQ9vDtby,Jeremy Soule,Shattered Shields,The Elder Scrolls V: Skyrim: Original Game Soundtrack,2013,0.158,0.00793,10.0,1.0,0.0368,132.408,158247,"['soundtrack', 'ambient', 'downtempo', 'classical']"
+B5YbwSg4b0ZmeTQ4,Broken Social Scene,All to All,Forgiveness Rock Record,2010,0.623,0.741,7.0,1.0,0.0812,131.998,289507,[]
+NgLoQMfXIDjh0gLR,Booze & Glory,Back on Track,CHAPTER IV,2018,0.344,0.993,7.0,1.0,0.1889999999999999,143.063,221889,"['rock', 'alternative rock']"
+o5SKI88s9IPpwmnR,Eagles of Death Metal,I Only Want You,Peace Love Death Metal,2004,0.5479999999999999,0.944,9.0,1.0,0.901,173.86900000000003,168920,['rock']
+r81xIbSt63zIassC,Renaissance,On The Frontier,Ashes Are Burning,1973,0.358,0.469,9.0,1.0,0.38,75.642,297693,[]
+R2uTNRfuCJCdQdTk,Maria Rita,Dos Gardenias,Maria Rita,2003,0.615,0.301,7.0,0.0,0.586,188.141,275333,['folk']
+gR8FmgAgLQr6mdSs,Madonna,Hanky Panky,I'm Breathless,1990,0.637,0.626,2.0,1.0,0.485,169.96900000000005,239160,['pop']
+jgAy9EZdEF8RqD3D,Glee Cast,As Long as You're There,"Glee: The Music, Volume 6",2011,0.359,0.602,2.0,1.0,0.263,161.62,256080,"['pop', 'k pop']"
+rxXGqWzwO7rzdDQM,Wormrot,Newkiller Nuclear,Abuse,2010,0.336,0.995,6.0,0.0,0.0398,106.206,39413,['experimental']
+Uzo6y1xBBIEUNX3c,Caetano Veloso,Isto Aqui O Que E,Pure Brazil: Feijoada,2004,0.6779999999999999,0.539,11.0,0.0,0.706,95.018,244160,[]
+vmKKp8LKNyn0crKU,Alkaline Trio,Mercy Me,Crimson,2005,0.472,0.88,9.0,1.0,0.805,162.171,169498,[]
+qM3KhFJNjEnivx4y,Dance of Days,Lírios aos anjos,Lírios aos Anjos,2005,0.3379999999999999,0.956,4.0,1.0,0.494,131.19299999999998,189800,['rock']
+yj5hUpgxoy0S4F1m,Foster the People,Helena Beat,Torches,2011,0.67,0.8759999999999999,5.0,0.0,0.736,126.968,276173,[]
+kFA0hCUEWER9tgZF,Michael Jackson,Dirty Diana,Scream,2017,0.7340000000000001,0.8009999999999999,3.0,1.0,0.331,131.424,280947,[]
+1YUiDKKSD7GIcXyx,Forfun,Cósmica,Polisenso,2015,0.534,0.862,6.0,0.0,0.703,172.019,253893,"['folk', 'singer songwriter']"
+4ne5LqXNY7mZfr9Y,Tim Hecker,Song of the Highwire Shrimper,Radio Amor,2003,0.1939999999999999,0.568,9.0,1.0,0.192,76.33800000000002,444333,"['post rock', 'ambient', 'downtempo']"
+CNMuroYXX0EAy4sq,Glee Cast,Control,"Glee: The Music, Volume 7",2011,0.78,0.843,8.0,1.0,0.5660000000000001,120.374,234920,['rap']
+rMIOGZnLAPwXne11,Scott Walker,Wait Until Dark,Scott 2,1968,0.171,0.241,4.0,1.0,0.2239999999999999,74.209,177093,['folk']
+RLgVI5jX9xV16AMj,dodie,I Have A Hole In My Tooth (And My Dentist is Shut),Intertwined - EP,2016,0.721,0.499,2.0,1.0,0.975,159.819,40000,['latin']
+aQwwqzYX8q5NChjr,Charlie Brown JR.,Tudo Mudar,Nadando Com Os Tubarões,2000,0.488,0.833,8.0,1.0,0.812,91.372,134027,['rock']
+Eg2bGuaVRsplOZWH,The Regrettes,I Don't Like You,Feel Your Feelings Fool!,2017,0.428,0.753,7.0,1.0,0.43,89.79899999999998,166693,[]
+dEC4tn1zLkDhGuRS,Glee Cast,Wanna Be Startin' Somethin',Wanna Be Startin' Somethin' (Glee Cast Version),2012,0.763,0.932,4.0,1.0,0.727,123.497,207467,"['experimental', 'rap', 'hip hop']"
+kW9jLToteTu9Bq4N,Eyehategod,Disturbance,Take As Needed for Pain (remastered Re-issue + Bonus),2007,0.187,0.732,10.0,1.0,0.0655,81.116,421853,"['experimental', 'progressive metal']"
+GLcYmJje2SzwaQ0t,Paulina Rubio,Enamorada,Planeta Paulina,1996,0.4370000000000001,0.742,9.0,1.0,0.664,127.69,208067,[]
+DV3c88mAUeLMPfwW,Kimbra,Posse,Vows (Deluxe Version),2011,0.6970000000000001,0.7709999999999999,11.0,1.0,0.4579999999999999,95.948,306093,[]
+J1Ovw6tEBEwEeLJM,The Jesus and Mary Chain,Cut Dead,Psychocandy (Expanded Version),1985,0.456,0.457,7.0,1.0,0.284,104.423,165813,['rock']
+sPHgkAYtl2uDIJO4,Lou Reed,Lisa Says,Lou Reed,1972,0.514,0.677,5.0,1.0,0.565,80.586,334200,"['folk', 'singer songwriter']"
+mmejC0HvB1tzPFz3,Street Sects,The Drifter,The Kicking Mule,2018,0.564,0.736,11.0,0.0,0.294,100.059,260399,['experimental']
+2KPER58VCh60btEn,Bess Atwell,Swimming Pool,Swimming Pool,2018,0.555,0.3329999999999999,1.0,1.0,0.094,142.72899999999996,273907,"['folk', 'singer songwriter']"
+n6BkmeSZsH22vnPm,John Mayer,Great Indoors,Room For Squares,2001,0.591,0.617,0.0,1.0,0.48,109.956,216360,"['folk', 'singer songwriter']"
+0h2qKn4QYied7Wc6,Patrick Watson,Places You Will Go,Love Songs For Robots,2015,0.25,0.645,6.0,1.0,0.35,91.628,303931,[]
+5AicwhVQ2x9XxuHN,Bob Dylan,Man of Constant Sorrow,Bob Dylan,1962,0.377,0.397,7.0,1.0,0.462,108.591,187400,"['folk', 'singer songwriter']"
+YwhtghOPCVEqPgmE,Exodus,Exodus,Fabulous Disaster,1989,0.262,0.988,11.0,0.0,0.2269999999999999,91.319,290280,"['rock', 'experimental']"
+i3rmnzm3aWNCu1wP,Letrux,Hypnotized,Letrux em Noite de Climão,2017,0.705,0.779,4.0,0.0,0.613,122.303,318701,"['pop', 'latin']"
+yNmqa4HyvC4QrgqP,Circle Jerks,Paid Vacation,Group Sex,1980,0.3,0.8270000000000001,2.0,1.0,0.565,156.78799999999995,88907,[]
+NSPWhwGFmHc9Cp4N,Milton Nascimento,Pai Grande,Milton Nascimento,1969,0.287,0.266,0.0,1.0,0.225,97.911,213507,"['rock', 'rap', 'hip hop']"
+ox0465mzwFdOB9Ui,Leonel García,Recuerdas,Amor Futuro,2014,0.444,0.297,2.0,1.0,0.0854,144.08700000000005,298920,['folk']
+FlSj9MwXlNzHxRFF,Turma do Pagode,Aquele Beijo - Ao Vivo,Mania do Brasil (Ao Vivo),2014,0.586,0.846,2.0,1.0,0.68,83.98899999999998,214787,['rock']
+2ERV7n19qffEBwAi,Johari,Motion in the Dust,Terra,2017,0.369,0.918,10.0,0.0,0.425,178.045,296629,"['rock', 'alternative rock']"
+EyZ8kjbl7PIufWPk,Megadeth,À Tout Le Monde (Set Me Free),United Abominations,2007,0.5379999999999999,0.866,6.0,0.0,0.351,113.512,249013,"['rock', 'metal']"
+tHSOZ1UtAvDTcKM4,Thelonious Monk,Nutty,Mønk,2018,0.48,0.402,0.0,0.0,0.4970000000000001,171.403,569200,[]
+AHLbCIQVNweQTbJR,London Grammar,Hey Now (Tensnake remix),If You Wait - Remixes 2,2014,0.698,0.575,2.0,0.0,0.123,125.009,386720,[]
+zyuzHbzdUvB7LGUh,Allah-Las,Artifact,Worship the Sun,2014,0.4970000000000001,0.7190000000000001,4.0,0.0,0.628,121.784,213133,"['post punk', 'indie rock']"
+ql8MCfg8QnKBogkC,Never Shout Never,CheaterCheaterBestFriendEater,Harmony,2010,0.768,0.6829999999999999,7.0,1.0,0.669,99.955,178144,['pop']
+55NQViktvtzMxJwQ,Film School,Crushin',Crushin',2018,0.413,0.706,5.0,1.0,0.252,104.981,230933,"['experimental', 'synthwave']"
+wdkx1FcUhmVcTpgy,Alabama Shakes,Hang Loose,Boys & Girls,2012,0.624,0.85,4.0,1.0,0.386,119.801,144200,"['rock', 'indie rock']"
+HlaXsJWTmjoOoZds,Bonobo,Between The Lines,Days To Come,2006,0.745,0.509,10.0,0.0,0.486,99.493,276573,[]
+EVXmBswIZuw8Y65N,Psyche,Nobody Superstar,Babylon Deluxe,2013,0.779,0.778,1.0,1.0,0.363,134.019,310293,"['rock', 'post punk']"
+ffyvTScSBpkkoOuA,Epica,Cry for the Moon,The Phantom Agony (Expanded Edition),2013,0.446,0.902,2.0,0.0,0.278,180.049,406040,['rock']
+nwBa6NOVTiDDUAug,Atheist,Your Life's Retribution,Unquestionable Presence,2013,0.325,0.862,9.0,1.0,0.618,114.871,199400,[]
+zfVNX9IiwSpdeVGK,Backstreet Boys,If I Knew Then,This Is Us,2009,0.757,0.8270000000000001,0.0,1.0,0.8370000000000001,144.931,196587,[]
+EzEtWMwPY2dLXFhV,E-girls,EG-ENERGY,EG-ENERGY,2018,0.669,0.962,10.0,0.0,0.395,124.034,300000,['k pop']
+ln2i8a1MtxnIP9P5,El Canto del Loco,Insoportable,Estados de Animo,2003,0.615,0.763,9.0,1.0,0.426,131.02200000000002,248720,"['rock', 'pop']"
+bVj0ZHe5q0dYqAQS,Rancore,Transa,Seiva,2011,0.264,0.901,1.0,0.0,0.354,164.332,221560,[]
+ppIjszsNkRUVpuCH,Jason Mraz,Butterfly,We Sing. We Dance. We Steal Things.,2008,0.718,0.6579999999999999,10.0,0.0,0.8059999999999999,108.105,299067,[]
+TkfwjnLd5kPs3SH1,Fresno,Sexto Andar,A Sinfonia de Tudo Que Há,2016,0.356,0.5489999999999999,7.0,1.0,0.132,119.475,348159,['rock']
+KNcRMNpD6vJ0d3Lc,Lantlôs,You Feel Like Memories,Agape,2011,0.255,0.0675,3.0,0.0,0.0791,70.236,271747,['experimental']
+4H6Lkalh7OS849QW,Santigold,Freak Like Me,Master of My Make-Believe,2012,0.754,0.669,11.0,1.0,0.813,179.08599999999996,137653,"['rap', 'hip hop']"
+YJ8ZFCpYapkw8c6e,Kylie Minogue,Cruise Control,Body Language,2003,0.628,0.865,11.0,1.0,0.754,98.988,232480,[]
+JH5g2EbrJkFdTR6h,$uicideboy$,NOXYGEN,KILL YOURSELF Part VII: The Fuck God Saga,2014,0.856,0.542,6.0,1.0,0.294,120.013,136072,"['rock', 'hip hop']"
+hUiA6sVtiLlch7hT,Pabllo Vittar,Então Vai - DKVPZ Remix,Vai Passar Mal Remixes,2017,0.5589999999999999,0.79,2.0,1.0,0.565,94.019,239991,[]
+oZgwgxzO2w5MOnpk,Guardin,Cliffnote,outsider,2018,0.522,0.8140000000000001,8.0,1.0,0.507,76.75399999999998,99928,[]
+itgHOZOHYkQLe8DS,Camera Obscura,Tears For Affairs,Let's Get Out Of This Country,2006,0.547,0.804,7.0,1.0,0.67,113.845,244093,['experimental']
+zX21hjoR3lEMKmF6,Steven Universe,Let Me Drive My Van Into Your Heart,"Steven Universe, Vol. 1 (Original Soundtrack)",2017,0.4539999999999999,0.762,0.0,1.0,0.961,80.093,66091,"['rock', 'post punk', 'new wave']"
+9JX2s9CWFCdYqtrJ,The Police,Synchronicity I,Synchronicity (Remastered 2003),1983,0.419,0.912,7.0,1.0,0.4379999999999999,197.18,203000,['rock']
+cIcRwbmebwPQvCjM,Rita Lee,Ambição,Pérolas,2016,0.433,0.525,4.0,1.0,0.421,114.896,189427,"['rock', 'experimental', 'indie pop']"
+D6dP8kTXn74rSjUs,Destiny Potato,The Build Up,Lun,2014,0.6940000000000001,0.465,8.0,1.0,0.921,145.957,131487,"['ambient', 'downtempo']"
+fMlhgOV1yV8TvoN0,The Turtles,Elenore,The Turtles Present The Battle of the Bands,1968,0.63,0.625,4.0,1.0,0.887,122.504,151307,[]
+EBmAnNCdhFas3S65,Saint Motel,Puzzle Pieces,Voyeur,2012,0.537,0.89,5.0,1.0,0.597,114.088,231387,[]
+kLYaOCbi7sK10oIc,Rosetta,Neophyte Visionary,Utopioid,2017,0.3929999999999999,0.95,1.0,1.0,0.132,132.05200000000002,393320,['ambient']
+1CAIkvTCMy8UMo6F,Burzum,Tomhet,Hvis Lyset Tar Oss,1994,0.151,0.0291,0.0,1.0,0.0383,62.545,852000,"['ambient', 'downtempo', 'beats']"
+wML2qJ3dEEXvlgEl,Marisa Monte,Ilusão (Ilusion),"Verdade, Uma Ilusão",2014,0.477,0.541,2.0,1.0,0.327,131.861,235133,"['folk', 'singer songwriter', 'mpb']"
+yyHxYV7SW3fAGX2b,Coldplay,For You,Shiver,2000,0.486,0.173,1.0,0.0,0.174,73.992,343907,"['folk', 'ambient']"
+bdbLMCggUZ7BPWzt,Sharon Jones and the Dap-Kings,"100 Days, 100 Nights","100 Days, 100 Nights",2007,0.45,0.52,9.0,0.0,0.6829999999999999,110.894,225453,[]
+xsYqdD8L8pw6Wq2h,Mogwai,Scrap,KIN,2018,0.252,0.313,11.0,0.0,0.0395,125.942,170453,['folk']
+l11omvEMpKXHHjQV,Big Star,Try Again,#1 Record,1972,0.4629999999999999,0.231,7.0,1.0,0.1169999999999999,133.46,212267,"['rock', 'punk', 'alternative rock']"
+xec0LjNp1vHodlmw,Fontaines D.C.,Hurricane Laughter,Dogrel,2019,0.318,0.933,4.0,1.0,0.14,169.217,290782,['experimental']
+JwwkHnT1cH4fdS2t,The Sword,High Country,High Country,2015,0.562,0.799,8.0,1.0,0.57,89.11200000000002,157400,[]
+xAAhKJ76kp68xfk3,Red Hot Chili Peppers,Annie Wants a Baby,I'm with You,2011,0.6809999999999999,0.8859999999999999,7.0,0.0,0.3829999999999999,118.783,220813,[]
+nGUlODQhKaz9RMbd,Icehouse,Trojan Blue,Primitive Man (Bonus Track Edition),1982,0.536,0.711,9.0,0.0,0.0834,100.762,302787,['rock']
+W7DaSOc8L00d2tpl,Odesza,Home,My Friends Never Die Remixes,2013,0.5579999999999999,0.7859999999999999,6.0,1.0,0.1939999999999999,110.102,248084,"['experimental', 'jazz', 'indietronica']"
+ojEqlTAKxWYf3vZN,Linkin Park,Keys to the Kingdom,The Hunting Party,2014,0.395,0.976,7.0,1.0,0.3339999999999999,184.011,218547,['indie rock']
+o0P9NWIXCUGEFvmK,Epica,Fools Of Damnation - The Embrace That Smothers Part 9,The Divine Conspiracy,2007,0.5770000000000001,0.977,9.0,1.0,0.247,149.98,522057,"['metal', 'doom metal']"
+1a7NzQGroZt1CvaI,Jupither,I Kissed a Boy,I Kissed a Boy,2011,0.565,0.8440000000000001,6.0,1.0,0.514,129.97299999999998,176007,"['rock', 'punk', 'post punk', 'indie rock', 'classic rock']"
+D9DGoTuz9I327cCt,Dokken,It's Not Love,Under Lock And Key,1985,0.685,0.8590000000000001,6.0,0.0,0.589,116.067,299400,"['rock', 'pop']"
+QGdgQboTXeD8gPcZ,Ladytron,Little Black Angel,Best of 00-10 [Deluxe Edition],2011,0.465,0.931,2.0,1.0,0.416,129.958,212520,[]
+Lb6AfYxlvR3dRjZi,Icon for Hire,Demons,You Can't Kill Us,2016,0.544,0.966,4.0,0.0,0.544,135.039,204774,[]
+SOCsJtsAtmq2EakN,Yves Larock,Rise Up - Radio Edit,Rise Up,2007,0.674,0.855,2.0,1.0,0.772,128.095,172173,['rock']
+hsdlo91hgfCA9SYm,Thievery Corporation,The Richest Man in Babylon,The Richest Man In Babylon,2002,0.6,0.4320000000000001,4.0,0.0,0.276,71.97399999999998,236960,[]
+BsaUsl1kEJvWsHme,Arctic Monkeys,Black Treacle,Suck It and See,2011,0.3429999999999999,0.89,7.0,1.0,0.525,100.061,217440,['alternative rock']
+Ty6OgF440UYuAJbI,O.Torvald,Time,Time,2017,0.569,0.903,1.0,0.0,0.315,101.952,186471,[]
+QEMSYdM8VhOMg3Lv,Gene Clark,No Other,No Other,1974,0.4679999999999999,0.617,2.0,1.0,0.5539999999999999,96.878,308533,"['rock', 'folk']"
+SsZRaEZV5A3vnaqT,Leighton Meester,Blue Afternoon,Heartstrings,2014,0.632,0.51,7.0,1.0,0.55,118.997,237480,[]
+OGT8gKpK9FG6CJPW,Garbage,Magnetized,Strange Little Birds,2016,0.419,0.6890000000000001,6.0,0.0,0.228,129.93200000000002,234840,[]
+KeIpTyReHcX91s5v,Eddie Vedder,Sleeping By Myself,Ukulele Songs,2011,0.397,0.363,5.0,1.0,0.488,99.819,113840,[]
+FliM4q3u88iFvmzK,Carly Rae Jepsen,This Kiss,Kiss (Deluxe),2012,0.737,0.873,0.0,1.0,0.6970000000000001,127.998,228867,['pop']
+QC0MFa1Jqct6Colr,Evanescence,Weight of the World,The Open Door,2006,0.266,0.949,8.0,1.0,0.39,140.145,217960,[]
+V58HVU9HyrlZvKxT,Flotsam and Jetsam,Slowly Insane,The End of Chaos,2019,0.2789999999999999,0.993,4.0,1.0,0.172,198.001,233173,['metal']
+nZe0wGizSzp0rEC5,Pharao,I Show You Secrets,Best of Pharao 1994-1998,2018,0.6779999999999999,0.93,1.0,1.0,0.836,141.964,242003,[]
+X2cabKOzkwuWi8NO,1Kilo,Cypher Reza Sincera,Cypher Reza Sincera,2017,0.6859999999999999,0.742,9.0,0.0,0.823,89.725,317250,['rap']
+tjL77ZRK9FG165M3,Melvins,June Bug,Stoner Witch,1994,0.349,0.777,2.0,1.0,0.2769999999999999,118.505,120613,"['post punk', 'indie rock']"
+hlBDC4g0pk5QZQ7n,Ana Malhoa,Ela Mexe,Ela Mexe,2018,0.884,0.92,10.0,0.0,0.908,92.017,136957,"['pop', 'k pop']"
+BZxyoMk3JuiWgWhp,Royal Republic,Fireman & Dancer,Club Majesty,2019,0.5529999999999999,0.961,5.0,1.0,0.649,151.04399999999995,168333,['rock']
+IXLapqlJDfTQqTqY,Il Volo,Grande Amore,Grande amore (International Version),2015,0.456,0.604,1.0,1.0,0.154,142.241,224680,['pop']
+BUEy066Pz0troIB8,Burzum,Det som en gang var,Hvis Lyset Tar Oss,1994,0.17,0.846,1.0,1.0,0.038,125.138,861507,"['metal', 'black metal']"
+afQkveKah3WqcYAt,Foy Vance,Into the Fire,Melrose EP,2012,0.444,0.287,10.0,1.0,0.285,73.96600000000002,280290,"['folk', 'singer songwriter']"
+p8L2wOCqZmNlBIcD,Shlohmo,Ditch,Dark Red,2015,0.456,0.8240000000000001,8.0,1.0,0.136,110.653,281000,"['rap', 'hip hop']"
+XSZW2bnjtLFhL4cI,August Burns Red,Black Sheep,Messengers,2007,0.276,0.953,1.0,1.0,0.221,105.989,233373,['metal']
+RE6JGJYZv6XcAqyJ,Frightened Rabbit,Old Old Fashioned,The Midnight Organ Fight,2007,0.59,0.926,7.0,1.0,0.82,114.005,222573,"['rock', 'indie rock']"
+yHyzPvYs9P0IAJUJ,Bikini Kill,No Backrub,Reject All American,1996,0.434,0.897,2.0,1.0,0.6679999999999999,112.679,112440,['metal']
+EnvXIdyvTH86tWhi,Beastie Boys,Something's Got To Give,Check Your Head,1992,0.713,0.527,1.0,1.0,0.413,137.018,207712,[]
+tMmM27blb5M0gcH2,An Autumn for Crippled Children,The Woods Are on Fire,Try Not to Destroy Everything you Love,2013,0.408,0.96,5.0,1.0,0.156,116.803,256009,"['metal', 'black metal']"
+abH9wkwP8QhQa6NG,Bauhaus,Mask,Mask,1981,0.6409999999999999,0.545,7.0,1.0,0.853,121.928,220160,"['rock', 'post punk', 'experimental', 'new wave']"
+PcmtMe5xMKb58ZTX,10cc,The Wall Street Shuffle,The Complete UK Recordings,2004,0.516,0.517,0.0,1.0,0.639,98.141,241573,['rock']
+HJ8bE2CSPU0YJlnK,Idiot Pilot,Only So Much,Blue Blood,2019,0.486,0.5920000000000001,4.0,1.0,0.397,95.028,207665,"['rock', 'indie rock']"
+0lR4zHGBLqD8gOpq,knowmadic,faces,Faces,2019,0.615,0.424,11.0,0.0,0.178,159.033,133165,"['experimental', 'ambient']"
+rbaOzMSuxSLZtKQi,Shania Twain,Ain't No Particular Way,Up!,2002,0.5670000000000001,0.775,7.0,1.0,0.866,82.93799999999997,264800,[]
+Occq4oR5W3mIRyPY,Fresno,Eu Sei - Ao Vivo,Fresno 15 Anos ao Vivo (Deluxe),2015,0.316,0.954,1.0,1.0,0.359,134.82399999999998,216387,['rock']
+bOIwiFhqPMN7sSlb,The Dangerous Summer,War Paint,War Paint (Deluxe Edition),2011,0.4589999999999999,0.976,0.0,1.0,0.151,105.05,256907,[]
+IXlM6D0eJiVwDSwv,Tim Maia,BRILHO,iCollection,2012,0.608,0.426,9.0,1.0,0.3279999999999999,130.778,208907,[]
+CYbhGlcwp95o8gls,The Radio Dept.,We Climb The Wired Fences,Pulling Our Weight,2003,0.39,0.484,6.0,1.0,0.3,93.992,252533,[]
+lGoFfRN7ImljmkjE,Britney Spears,Trip to Your Heart,Femme Fatale (Deluxe Version),2011,0.679,0.813,0.0,1.0,0.642,125.033,213773,['rock']
+lKvZzLlhSDPLnQh6,Cheryl Cole,Live Tonight,Messy Little Raindrops,2010,0.7959999999999999,0.685,2.0,1.0,0.6459999999999999,127.982,207907,[]
+n5ftUL01ywTMhPzq,Keith Jarrett,I Got It Bad And That Ain't Good,"The Melody At Night, With You",1999,0.418,0.0543,7.0,1.0,0.123,96.648,426000,"['ambient', 'contemporary classical', 'classical']"
+YCdy9A6QN1VMiphf,Faber Drive,When I'm With You,Seven Second Surgery,2007,0.46,0.655,7.0,1.0,0.414,140.067,221040,['pop']
+387hbnHwBbilrbw7,Necrophagist,Advanced Corpse Tumor,Onset Of Putrefaction,2004,0.327,0.987,6.0,0.0,0.161,111.646,327933,[]
+UUsqRsxALcFAAuGP,Pixie Lott,Cry Me Out,Turn It Up,2009,0.6659999999999999,0.732,9.0,1.0,0.653,90.05,244893,[]
+94ASLPxYw1U2Yhlm,Melanie C,Drown,The Sea,2011,0.565,0.596,5.0,0.0,0.231,119.895,239693,[]
+ZTzeKDxTr3CPwevG,Surfer Blood,Floating Vibes,Astro Coast,2010,0.5670000000000001,0.735,4.0,1.0,0.509,126.857,234497,"['rock', 'indie rock']"
+kM5MFw6ic0HrOJzG,Megadeth,Architecture of Aggression,Countdown To Extinction,1992,0.537,0.97,11.0,0.0,0.502,95.337,219800,"['metal', 'speed metal']"
+Ni5LUp13hHMiMgaW,Miles Davis,"Straight, No Chaser",Milestones,1958,0.433,0.529,7.0,0.0,0.5429999999999999,180.547,635067,['rock']
+tkU4kDSmNRyMcRhS,Emarosa,What's A Clock Without The Batteries?,Relativity,2008,0.32,0.902,1.0,0.0,0.311,168.044,218840,[]
+Z7Ds2K6ZVGSu6qyq,TV on the Radio,Tonight,Return To Cookie Mountain,2006,0.216,0.44,6.0,1.0,0.102,179.247,412213,['experimental']
+M9GiGrCENjO9rk2w,Paradise Lost,Another Day,One Second,1997,0.637,0.588,4.0,1.0,0.208,130.045,284307,[]
+d4v8YU6YvDVqCZkc,Ensiferum,By the Dividing Stream,Two Decades Of Greatest Sword Hits,2016,0.2,0.327,11.0,0.0,0.144,66.55,140987,['ambient']
+bQNSFq3hChjCGKug,Com Truise,...Of Your Fake Dimension,Iteration,2017,0.35,0.667,2.0,1.0,0.411,137.989,207984,['experimental']
+Q9cLzVHYWRQ1k3gc,S U R V I V E,Hourglass,Mnq026,2012,0.58,0.8320000000000001,3.0,0.0,0.298,91.999,270652,['ambient']
+LZ0FxlMsPjFYmVZY,Grateful Dead,Jack Straw,Cornell 5/8/77,2017,0.51,0.557,9.0,1.0,0.7140000000000001,127.688,389373,"['rock', 'post punk', 'alternative rock', 'classic rock']"
+wVI7PJhoIVjl68eS,Demis Roussos,We Shall Dance,Demis Roussos - Greatest Hits (1971 - 1980),1983,0.26,0.631,6.0,1.0,0.431,140.875,212707,"['pop', 'folk']"
+wZPieROQfMbZuG39,Bad Religion,Believe It,The New America,2000,0.31,0.966,7.0,1.0,0.3779999999999999,163.102,223267,"['rock', 'post punk', 'indie rock', 'lo fi']"
+xX5iVVXr1n4xxK9U,Shania Twain,God Bless The Child,The Woman In Me,1995,0.413,0.0223,4.0,1.0,0.3389999999999999,144.58700000000005,90733,['soul']
+gnUFhgtqMWlzsT2P,Hot Water Music,Mainline,Exister,2012,0.273,0.986,4.0,1.0,0.217,193.014,152707,[]
+o3eSglNO0zDiDWCL,Cher,Cry Myself to Sleep,All I Really Want To Do,1965,0.425,0.3389999999999999,8.0,1.0,0.526,126.242,140560,[]
+5hDUR1iYzbzuMXRe,Adore Delano,Save Your Breath,After Party,2016,0.601,0.63,8.0,1.0,0.0904,98.043,211371,[]
+DA2ZJY363LRwBdnS,The Bolshoi,Away,Friends,1986,0.597,0.737,7.0,1.0,0.5529999999999999,120.867,297133,['rock']
+Bj9JgyKhGJJZ96eb,Block B,Movie's Over,BLOCKBUSTER,2012,0.514,0.805,6.0,0.0,0.414,180.03599999999997,223138,[]
+zG5iD3dCNhBijEMu,Feist,The Limit to Your Love,The Reminder,2007,0.5579999999999999,0.355,5.0,1.0,0.368,151.957,260987,[]
+avO4WwOX3axSwKB8,Antimatter,Fighting for a Lost Cause,Leaving Eden,2007,0.4529999999999999,0.17,4.0,0.0,0.221,121.938,335520,"['folk', 'jazz']"
+Gof4MUngidge7y1f,Soap&Skin,Me and the Devil,Sugarbread,2013,0.3989999999999999,0.444,7.0,1.0,0.213,177.855,185000,['folk']
+jLK8YDzgiHDe0FOe,Sara Bareilles,Machine Gun,Kaleidoscope Heart,2010,0.5920000000000001,0.722,10.0,1.0,0.618,107.015,247896,[]
+8tAFUsplcwDhZGs6,Fat Freddy's Drop,Ernie,Based on a True Story,2005,0.6,0.365,9.0,0.0,0.131,130.046,437200,[]
+9YguFXeqJ1Nd6O3p,Bananarama,Feel For You,Drama,2016,0.57,0.923,5.0,0.0,0.8690000000000001,121.007,206533,['pop']
+qa3meE6xTuOxSQMH,Mom Jeans.,Girl Scout Cookies,Best Buds,2016,0.619,0.6779999999999999,10.0,1.0,0.424,91.289,225863,['rock']
+B73dsXi3KH47rONI,A Barca do Sol,A Língua E A Bainha,Sucessos,1995,0.469,0.316,4.0,0.0,0.385,83.086,170600,[]
+1XrZWrECeBx9rqwK,Mercenary,Embrace the Nothing,Architect of Lies,2008,0.381,0.977,6.0,0.0,0.337,145.04,290507,[]
+AWNCgtCAvCY0jbcj,Mon Laferte,El Mambo,Norma,2018,0.446,0.86,4.0,0.0,0.794,126.224,227840,[]
+I6eX3xI0RKXQGjUG,cehryl,Side Effects,Side Effects,2017,0.7909999999999999,0.597,7.0,1.0,0.657,80.005,176918,[]
+6k1oC4EwLjQjUFz7,Paul McCartney,The Song We Were Singing,Flaming Pie,1997,0.541,0.402,7.0,1.0,0.275,153.211,234600,"['rock', 'folk', 'singer songwriter']"
+eaJdl0hj8pgi86Dj,Backstreet Boys,All I Have to Give,Backstreet Boys,1996,0.731,0.574,1.0,1.0,0.392,95.995,276573,['pop']
+qXl1TdYggbvNI0aE,The Tallest Man on Earth,Rivers,Rivers,2016,0.562,0.25,5.0,1.0,0.595,100.804,236854,"['soundtrack', 'folk']"
+tio8fLwPezu0joNq,Math the Band,Four to Six,The Album,2015,0.42,0.987,4.0,1.0,0.326,95.884,154010,"['rock', 'punk', 'post hardcore']"
+2BDMbOecdFsX0MDa,Helloween,Sole Survivor,Master of the Rings (Expanded Edition),1994,0.414,0.949,6.0,1.0,0.63,159.987,273267,['metal']
+RTJjZDOZY0VQ4eFA,Johnny Cash,Mary of the Wild Moor,American III: Solitary Man,2000,0.447,0.233,9.0,1.0,0.419,158.418,151467,[]
+sSS9j3MjJcTLMEpg,Nina Nesbitt,Things I Say When You Sleep,"The Sun Will Come up, The Seasons Will Change",2019,0.502,0.243,4.0,0.0,0.143,77.329,216160,['folk']
+u2Iutwii1XRYHMhJ,Jessica Simpson,I've Got My Eyes on You,Sweet Kisses,1999,0.8340000000000001,0.943,11.0,0.0,0.974,112.177,214973,['pop']
+ODkZ2Z5MuRxCjweY,Mew,Count To Ten,Transformers Roll Out,2016,0.523,0.621,4.0,1.0,0.139,125.937,209973,[]
+qGQPZOrXqdnOg61e,Thin Lizzy,Get Out of Here,Black Rose: A Rock Legend,1979,0.366,0.89,1.0,1.0,0.706,163.779,216960,['rock']
+pTyp9KU2fytLdzHp,Andy Black,Ribcage,The Shadow Side,2016,0.588,0.877,2.0,0.0,0.477,114.031,231023,[]
+lR0kZTYWkehVveVG,Aphex Twin,Icct Hedral,...I Care Because You Do,1995,0.41,0.878,8.0,1.0,0.115,141.829,367053,"['experimental', 'soundtrack', 'ambient']"
+CCeWOsmlgdGKYeB3,Cream,N.S.U.,Fresh Cream,1966,0.355,0.547,7.0,0.0,0.384,134.031,167840,[]
+eJQOgKLgS60fQRse,Nine Inch Nails,26 Ghosts III,Ghosts I-IV,2008,0.491,0.919,1.0,1.0,0.741,158.012,145862,"['rock', 'ambient']"
+5RdNYioboZLvRYPC,Britney Spears,3,The Singles Collection,2009,0.6970000000000001,0.7090000000000001,5.0,0.0,0.787,134.91,213173,"['pop', 'k pop']"
+SDCBDHJOBpnU2SSN,Radiohead,Palo Alto,OK Computer OKNOTOK 1997 2017,2017,0.406,0.8190000000000001,2.0,1.0,0.325,116.9,231816,"['folk', 'mpb']"
+NoKMG4nnaATQu1n7,Fischerspooner,Emerge,#1,2003,0.611,0.736,5.0,1.0,0.544,147.934,288307,['soundtrack']
+lnSMbyE5IE67Iq42,Brandy,Truthfully,Never Say Never,1998,0.632,0.416,10.0,1.0,0.11,100.193,298760,['country']
+SyEBK5AMFN1uyACk,Surfer Blood,Prom Song,Pythons,2013,0.591,0.821,1.0,1.0,0.483,127.998,233813,"['rock', 'punk']"
+uXGQCQQjLSQpdKoD,Terror Jr,Appreciation,Bop City 2: TerroRising,2017,0.7859999999999999,0.4529999999999999,8.0,1.0,0.163,95.006,195936,"['rap', 'hip hop', 'techno']"
+9rJg1wXO4OXyJ7gF,T. Rex,Planet Queen,Electric Warrior [Expanded & Remastered],1971,0.636,0.659,4.0,0.0,0.966,81.115,193200,"['rock', 'punk']"
+RFMemiGEobEfVGFo,Fabiana Cantilo,Mi Enfermedad,Proyecto 33 (En Vivo),2017,0.628,0.565,9.0,1.0,0.392,129.938,216187,[]
+IJ5c0hiHBy0qOpkU,Tiny Meat Gang,Clout,Bangers & Ass,2017,0.911,0.721,0.0,1.0,0.15,120.012,182000,"['rap', 'hip hop']"
+b10YaQLLBBpyydpC,Mia Badgyal,Na Batida,Na Batida,2017,0.632,0.7120000000000001,8.0,1.0,0.866,159.864,159746,[]
+FYOURggBxh7F7LYQ,Miley Cyrus,Malibu,Younger Now,2017,0.573,0.7809999999999999,8.0,1.0,0.3429999999999999,139.934,231907,['latin']
+4ENGbcTqz1QInFCN,Convulse,World Without God,World Without God,2018,0.151,0.961,0.0,1.0,0.12,161.293,304267,"['metal', 'metalcore', 'hardcore']"
+uK7rqlin3moMOK9L,Darondo,Didn't I,Let My People Go,2005,0.377,0.387,5.0,1.0,0.644,149.126,209187,[]
+aUwlOqu9XsT1bRs1,Bad Religion,Sanity,Age Of Unreason,2019,0.465,0.969,0.0,1.0,0.539,74.979,178450,"['rock', 'punk']"
+9dWcOIju1JP5IdFu,Danity Kane,Is Anybody Listening,Welcome To The Dollhouse,2008,0.49,0.799,9.0,0.0,0.433,90.06,207760,[]
+ZYPY5YrW9KQs7S3H,Japan,I Second That Emotion,Assemblage,1981,0.748,0.374,8.0,1.0,0.531,99.784,225933,[]
+d3iD9qhm3prkRkOC,Captain Beyond,Icarus,Dawn Explosion,1977,0.302,0.767,7.0,1.0,0.75,170.93900000000005,257200,['rock']
+gCjM4ZGQpLlDD1YU,Frank Sinatra,My Funny Valentine,Songs For Young Lovers,1954,0.319,0.132,11.0,0.0,0.249,104.017,150667,[]
+a9X2M6ATWO8B82k9,Pharrell Williams,Gush,G I R L,2014,0.7959999999999999,0.6970000000000001,4.0,0.0,0.7140000000000001,111.999,234667,[]
+7R8wjQDT5ymhHmY4,Jeremy Soule,A Winter's Tale,The Elder Scrolls V: Skyrim: Original Game Soundtrack,2013,0.55,0.0548,9.0,1.0,0.265,164.282,199866,"['soundtrack', 'ambient']"
+OYUgjMfNgCzzPA0A,CIFIKA,Water,PRISM,2018,0.604,0.574,0.0,1.0,0.127,124.031,286840,[]
+fxSZeVtb8QXMbBgt,Information Society,World Enough,World Enough,2019,0.7,0.736,10.0,0.0,0.477,119.992,245500,[]
+y0ImQfrL1DjzlaIw,Greeicy,Ya Para Qué,Ya Para Qué,2018,0.616,0.267,0.0,1.0,0.598,173.261,206573,[]
+hMO6csAZSaHVkUvV,Pitty,Um Leão,SETEVIDAS,2014,0.518,0.8170000000000001,4.0,0.0,0.419,100.508,215773,[]
+HQmoIiDevW88PpsX,Maria Gadú,Sakédu,Guelã,2015,0.7659999999999999,0.371,4.0,0.0,0.59,133.99,173960,"['experimental', 'rap']"
+LtLeJMFkU1dYnu1R,Frankie Smith,Double Dutch Bus,Double Dutch Bus,1981,0.915,0.52,8.0,1.0,0.471,119.47,320973,"['rap', 'hip hop']"
+T3MM80lsGDYHt1yH,Dan Mangan,Fool For Waiting,Fool For Waiting,2018,0.325,0.342,7.0,1.0,0.264,92.08,243200,['rock']
+GsfgYLmmxmVGjwhe,Choking Victim,500 Channels,No Gods / No Managers,1999,0.471,0.995,11.0,1.0,0.721,111.884,160000,[]
+qHpilVpRumptQjJi,Brandi Carlile,Just Kids,Bear Creek,2012,0.165,0.384,0.0,1.0,0.0732,59.413,407533,['folk']
+FVIeogydzP3BRGBI,Federico Albanese,By the Deep Sea,By the Deep Sea,2018,0.4370000000000001,0.347,1.0,1.0,0.1119999999999999,119.999,241115,"['experimental', 'ambient', 'downtempo']"
+UAUYLCoDMHxzQ1tn,Las Ligas Menores,Segunda Parte,Fuego Artificial,2018,0.4429999999999999,0.894,7.0,1.0,0.735,180.10299999999995,155985,[]
+DINLE90aIfrLXPtB,Kreator,People of the Lie,Coma of Souls,1990,0.515,0.942,9.0,1.0,0.481,92.52,195880,['metal']
+W1tGDLjoFh0NZ8NS,St. Vincent,The Party,Actor,2009,0.504,0.473,9.0,0.0,0.325,141.90200000000004,245040,['folk']
+Q55tUGZvegLapLPP,Britney Spears,What It's Like to Be Me,Britney (Digital Deluxe Version),2001,0.795,0.6509999999999999,11.0,0.0,0.68,100.045,170667,['pop']
+CCMxX0jek8HtXCnS,$uicideboy$,ALL MY LIFE I'VE WANTED A CHEVY,YUNGDEATHLILLIFE,2015,0.7929999999999999,0.371,10.0,0.0,0.114,109.999,110155,"['rap', 'hip hop', 'beats']"
+6H5WUxCGxrkBLbJn,Patti LaBelle,If Only You Knew,Beautiful Ballads,1976,0.544,0.371,4.0,1.0,0.145,132.972,286653,['experimental']
+n4dtQhMIBhqKakNc,Jakey,Saintlike,Saintlike,2017,0.515,0.605,3.0,0.0,0.354,76.318,226411,[]
+owIbTeWxPxLNqQeW,Paolo Nutini,Let Me Down Easy,Caustic Love,2014,0.725,0.514,11.0,0.0,0.79,105.249,212387,['pop']
+pJMQBC7waBgQ1VQK,mewithoutYou,Disaster Tourism,Catch For Us The Foxes,2004,0.261,0.879,9.0,0.0,0.352,132.186,178973,"['rock', 'experimental']"
+34rHqGeaLyRguQmc,Coldplay,Lovers in Japan (Osaka Sun mix),Viva La Vida (Prospekt's March Edition),2008,0.401,0.94,7.0,1.0,0.321,111.982,238240,['rock']
+vbdUV2s3vgrEU58F,Fetty Wap,679 (Feat. Remy Boyz),679 (feat. Remy Boyz),2015,0.618,0.7170000000000001,7.0,1.0,0.603,190.05,196693,"['rap', 'hip hop']"
+i7qE4YyDhd9nPt01,David Bowie,Battle for Britain (The Letter),Earthling,1997,0.517,0.889,7.0,1.0,0.387,166.062,289067,['rock']
+eFfcd4Bu7Hm4AcLH,Jack McDuff,Oblighetto,Moon Rappin',2002,0.446,0.731,0.0,1.0,0.283,123.188,396040,['classic rock']
+p0NTOTHb2Kc6A1kM,The Speed of Sound in Seawater,To Kelly Lee,First Contact,2013,0.46,0.575,4.0,1.0,0.629,120.056,267160,[]
+tZY4KjQo3xVnzCCY,Peter Gabriel,Mother Of Violence,Peter Gabriel 2: Scratch (Remastered Version),1978,0.376,0.175,7.0,1.0,0.447,154.461,202000,['mpb']
+PPrysTnx3Y2afPel,Deftones,Caress,Covers,2011,0.183,0.926,2.0,1.0,0.425,105.71,214133,[]
+uhJoa3MzZP4wmtQL,Say Anything,"Slowly, Through a Vector",Is a Real Boy,2005,0.612,0.857,0.0,1.0,0.518,137.969,280684,['experimental']
+JKWess26hWnt8jLq,Fine Before You Came,Lista,Rock Italiano 2012 (30 Imperdibili Tracce Alternative Rock),2012,0.223,0.654,0.0,0.0,0.286,169.065,222067,['rock']
+8WrO9DzlSMdD80lt,CPM 22,"Jovem, Alcoólatra, Suicida",Felicidade Instantânea,2005,0.52,0.903,2.0,1.0,0.5589999999999999,140.374,219773,"['rock', 'indie rock', 'alternative rock']"
+0dSvM0LJvljECyq0,Simple Minds,See the Lights,Acoustic,2016,0.606,0.802,2.0,1.0,0.519,126.081,297987,['rock']
+BfxW2MPgFwVWJsaL,Weyes Blood,Used to Be,Front Row Seat To Earth,2016,0.254,0.342,3.0,0.0,0.0686,149.47,272987,['folk']
+sEGBgaw9QdOHu2ht,Rihanna,Disturbia,Good Girl Gone Bad: Reloaded,2008,0.7070000000000001,0.813,11.0,0.0,0.722,124.921,238627,"['pop', 'latin', 'latin pop']"
+Uz1AfrTUlwzyskyv,Mick Gordon,BFG Division,Doom (Original Game Soundtrack),2016,0.2739999999999999,0.721,7.0,1.0,0.0383,115.036,506763,['experimental']
+0RkNmHGJzvUTnz2u,The Howl & The Hum,Godmanchester Chinese Bridge - Radio Edit,Godmanchester Chinese Bridge (Radio Edit),2017,0.434,0.58,11.0,0.0,0.108,95.884,196715,['pop']
+RyZ6K8jw7eVjs60r,Portugal. The Man,1989,Censored Colors,2008,0.35,0.423,7.0,1.0,0.148,135.498,252160,[]
+s7qmde2rbc3wwAJy,Hard-Fi,Fire in the House,Best Of 2004 - 2014,2014,0.615,0.8320000000000001,9.0,0.0,0.526,123.004,252587,[]
+j6MZT3SWgwOz5FdJ,Gang Gang Dance,House Jam,Saint Dymphna,2008,0.5329999999999999,0.8490000000000001,8.0,1.0,0.4,112.406,284840,"['rap', 'hip hop']"
+BulNLyUT6EYbxXCz,Anthrax,Medusa,Spreading The Disease,1985,0.3339999999999999,0.8140000000000001,11.0,0.0,0.677,150.816,284040,['punk']
+UZ2oMVun1NFNAVEj,Gorguts,Das Martyrium Des...,From Wisdom To Hate,2001,0.2789999999999999,0.985,8.0,1.0,0.149,133.49200000000002,273067,"['metal', 'post punk']"
+WFRDAOi5RP43Tnfk,Os Mutantes,El Justiciero,Everything Is Possible!,2007,0.5529999999999999,0.466,0.0,0.0,0.763,112.4,234613,"['rock', 'folk', 'mpb']"
+LFwG21lROsb7K1gm,Austra,Energy,Feel It Break (Deluxe Version),2011,0.5660000000000001,0.87,2.0,0.0,0.462,110.01,237597,['experimental']
+rdGXULaRMgXeW8Wo,Charlie Brown JR.,Rock Star,La Familia 013,2013,0.575,0.935,5.0,0.0,0.948,76.955,197813,[]
+mLJp2oRzlWj2vZn2,Django Reinhardt,Please Be Kind,In Person,2014,0.615,0.122,0.0,1.0,0.386,111.007,166040,['jazz']
+vHM8ufPY5q1p5ugE,Animal Collective,Daffy Duck,Feels,2005,0.195,0.285,3.0,1.0,0.0515,80.807,454480,[]
+XgB5ayn1XGlgRCVg,C418,Beginning,Minecraft - Volume Alpha,2011,0.311,0.0224,1.0,1.0,0.0379,79.128,102101,['ambient']
+pIXr2EkSycjYwG2h,Alice Merton,Lie To My Face,No Roots EP,2018,0.6459999999999999,0.4039999999999999,11.0,0.0,0.128,94.995,175385,['folk']
+EIcY2GHQ5Ll521ki,Terno Rei,Para o Centro,Essa Noite Bateu Com um Sonho,2016,0.67,0.467,11.0,0.0,0.365,107.987,229167,"['rock', 'indie rock']"
+Wmw35IlLMLB0FkUC,Halflives,Crown,Crown,2018,0.526,0.936,8.0,1.0,0.371,129.907,225231,[]
+XaGOlFGac9K3So1C,Queen,Need Your Loving Tonight - Remastered 2011,The Game (Deluxe Remastered Version),1980,0.607,0.878,9.0,1.0,0.805,137.826,169200,[]
+onSgqkPYq03U61vP,The Bravery,This Is Not The End,The Sun And The Moon,2007,0.45,0.966,7.0,0.0,0.531,145.814,239013,[]
+I6sX0rIj35ReW4Be,Eluveitie,Virunus,Origins,2014,0.473,0.991,7.0,0.0,0.0392,105.088,291613,[]
+4s7dQVA55bfSmFXi,Bury Tomorrow,Garden Of Thorns,Runes,2014,0.486,0.969,10.0,0.0,0.283,109.997,303827,['rock']
+FmTtERBEUpjiqAhh,Love and Death,Whip It,Between Here & Lost - Expanded Edition,2013,0.439,0.953,8.0,0.0,0.159,128.034,188253,"['rock', 'metalcore']"
+9RSBSiPBKRbAFSFo,Hole,For Once In Your Life,Nobody's Daughter,2010,0.421,0.645,1.0,1.0,0.529,84.994,214547,['pop']
+GDW7Laa5spovHAPb,The Sound,Heartland,Jeopardy,1980,0.213,0.941,7.0,1.0,0.662,185.421,214667,"['rock', 'punk', 'post punk']"
+oc7GOs8Cxb9lFw6q,Reignwolf,In The Dark,In the Dark,2013,0.392,0.6829999999999999,7.0,1.0,0.68,124.268,278205,[]
+UiqSO6sV3Ig3qG5V,Thundercat,The Life Aquatic,Apocalypse,2013,0.621,0.352,10.0,1.0,0.163,141.925,156669,[]
+lT9o3PSl2Hh3BDn0,Daniela Andrade,I will follow you into the dark,"Covers, Vol. 1",2013,0.487,0.322,0.0,1.0,0.4039999999999999,108.848,203500,['singer songwriter']
+O8GeaancqoryJxhJ,The Mountain Goats,Up the Wolves,The Sunset Tree,2005,0.489,0.366,2.0,1.0,0.48,157.547,207400,['folk']
+CrH7SFzoewCetOzj,"Now, Now",The Pull,Threads,2012,0.182,0.32,6.0,0.0,0.0414,88.179,108587,['soundtrack']
+UZx0cJ9uPoqiymzS,Matchbox Twenty,Rest Stop,The Matchbox Twenty Collection,2013,0.449,0.682,7.0,1.0,0.472,144.03799999999995,269467,['rock']
+9f6gBeebjpiMfF48,The Mars Volta,Cicatriz ESP,Deloused in the Comatorium,2003,0.3289999999999999,0.908,11.0,0.0,0.198,140.996,748773,['experimental']
+ySUWLPByAkc80Tht,Lovelyz,Twinkle,Fall in Lovelyz,2017,0.605,0.958,7.0,1.0,0.8079999999999999,139.981,223388,"['pop', 'k pop', 'latin']"
+0o9dvi2g0Mo9sPPM,Jeremy Soule,Unbroken Road,The Elder Scrolls V: Skyrim: Original Game Soundtrack,2013,0.168,0.161,2.0,0.0,0.0544,108.991,384174,['ambient']
+rYkkJIU0vW3qhW4o,Band of Skulls,Patterns,Baby Darling Doll Face Honey,2009,0.482,0.7490000000000001,4.0,0.0,0.395,116.137,217867,['experimental']
+Y8qyKfGqFZ522rSy,Menores Atos,Doisazero,Animalia,2014,0.395,0.83,3.0,0.0,0.429,137.173,344255,[]
+NynHPW5MWtrjK1lY,Leon Bridges,Here In My Arms,Coming Home (Deluxe),2016,0.555,0.414,1.0,0.0,0.6729999999999999,73.64,126920,['mpb']
+o09XqVoxWKvAv1f6,Roy Blair,Dennis,Dennis,2018,0.8270000000000001,0.6759999999999999,1.0,1.0,0.5529999999999999,100.037,194364,[]
+wsmxojTbeQ63XAuy,Mirror Kisses,Genius,Heartbeats,2013,0.435,0.773,5.0,1.0,0.147,93.013,258115,[]
+iIiNCDSucGNtdXhj,Luxury Elite,wave,With Love,2013,0.615,0.75,8.0,1.0,0.946,110.432,106749,['experimental']
+H5L9TMhn7SHbk5lU,Trivium,The Deceived,Ascendancy [Special Edition],2005,0.512,0.946,6.0,0.0,0.429,106.038,311853,[]
+XsnJ7Ecj6GdJQd0j,Highly Suspect,"Look Alive, Stay Alive",The Boy Who Died Wolf,2016,0.444,0.913,0.0,1.0,0.519,142.134,130107,"['rock', 'experimental', 'rap']"
+aNa9WOma2IpHPZzp,Lord of the Lost,Forevermore,Thornstar (Deluxe Edition),2018,0.3989999999999999,0.996,0.0,1.0,0.1889999999999999,77.02,260722,"['rock', 'alternative rock']"
+f44ic8fPVl9xYR2B,Billie Piper,Because We Want To,Honey To The B,1998,0.8320000000000001,0.961,1.0,0.0,0.79,107.02,229933,"['pop', 'latin']"
+ZfaLwOqkxDjobnL3,Cults,Keep Your Head Up,Static,2013,0.3279999999999999,0.8420000000000001,2.0,1.0,0.0714,96.282,218373,"['experimental', 'ambient']"
+2QDxhoVmjRkw6NVb,Donovan Woods,It'll Work Itself Out,They Are Going Away,2017,0.625,0.4320000000000001,5.0,1.0,0.5379999999999999,98.002,182806,[]
+UYq2HpwBhpD7umwE,King 810,State of Nature,Memoirs Of A Murderer,2014,0.4679999999999999,0.767,4.0,0.0,0.311,150.018,301960,"['experimental', 'folk', 'singer songwriter']"
+APr3tdpCrQxyiAot,The Sisters of Mercy,A Rock and a Hard Place,Possession Night,2014,0.56,0.862,1.0,1.0,0.701,133.955,208219,[]
+ZXiTfzmNyOfa2tLR,Norma Jean,Self Employed Chemist,The Anti Mother,2008,0.1009999999999999,0.994,5.0,0.0,0.25,191.404,192520,"['hardcore', 'melodic hardcore']"
+sDXoIZ0cHCEf4MY6,Neon Indian,"(If I Knew, I'd Tell You)",Psychic Chasms,2010,0.456,0.664,5.0,1.0,0.964,69.01,47440,"['indie pop', 'shoegaze']"
+VqFlpVLwFEy5IAvM,Ingrid Michaelson,Masochist,Girls and Boys,2007,0.499,0.49,7.0,1.0,0.306,136.085,251107,"['experimental', 'singer songwriter']"
+Pi7rgFeGjhOpttbm,Jason Isbell and The 400 Unit,Tupelo,The Nashville Sound,2017,0.476,0.415,9.0,1.0,0.321,143.819,241449,"['indie pop', 'folk', 'singer songwriter']"
+TPGev45HeiYHEZHo,Tom Waits,Hang Down Your Head,Rain Dogs,1985,0.62,0.409,1.0,1.0,0.831,114.824,151800,"['rock', 'folk', 'singer songwriter', 'classic rock']"
+Gc4plqhMf9UGvxhE,Loreen,Paper Light Revisited,Paper Light Revisited,2015,0.503,0.75,1.0,0.0,0.233,145.967,252928,[]
+2hl3x4BV2x1rcodI,Yo La Tengo,Ohm,Fade,2013,0.5329999999999999,0.985,2.0,1.0,0.632,111.588,407987,"['rock', 'experimental', 'indie rock']"
+0wuI3sWE1sY7j72q,Florrie,Left Too Late,Introduction,2010,0.569,0.8190000000000001,7.0,0.0,0.691,127.019,257244,"['pop', 'techno']"
+JWX4WZZzIB3Gg0Fx,Sundara Karma,Little Smart Houses,Little Smart Houses,2019,0.672,0.948,4.0,0.0,0.7,115.021,218867,['latin']
+lWYxaWMwRhtaPs33,The Maine,Growing Up,Black & White (Deluxe),2010,0.311,0.7090000000000001,7.0,1.0,0.318,104.003,240107,"['rock', 'post punk', 'indie rock', 'new wave']"
+NpwkAK0bEPUNqbM0,Stefanie Heinzmann,Mother's Heart,Mother's Heart,2019,0.759,0.693,5.0,1.0,0.556,98.04,203542,[]
+FU6GQvzZEWZZVCnf,Wire,The Commercial,Pink Flag,1977,0.514,0.637,2.0,1.0,0.794,102.244,49320,"['post punk', 'experimental']"
+c5nQGbGMTHAD8rBe,Laura Nyro,Captain Saint Lucifer,New York Tendaberry,1969,0.449,0.419,0.0,1.0,0.44,130.209,192627,['pop']
+8veWrIjbe328LFve,Maria Gadú,Suspiro,Guelã,2015,0.529,0.129,7.0,1.0,0.0389,119.763,211707,"['experimental', 'post rock', 'ambient']"
+qACvyV0yBlE8ewRS,Wendy Rene,What will tomorrow bring,"Rare '60s Female Soul, Vol. 1",2014,0.698,0.38,0.0,1.0,0.361,104.0,179967,[]
+GhCKIcLVkYgus3zs,Apoptygma Berzerk,Kathy's Song - Victoria Mix by VNV Nation,The Singles Collection (Deluxe Bonus Track Edition) [Remastered],2003,0.5920000000000001,0.774,8.0,1.0,0.3389999999999999,122.181,461893,[]
+k1YDoO3SeWmEDIIi,Slayer,Americon,World Painted Blood,2009,0.503,0.993,7.0,1.0,0.588,145.755,202800,[]
+XnQoL8CkWyZb3YE0,Medicine,Time Baby III,The Crow Original Motion Picture Soundtrack,1994,0.36,0.701,0.0,1.0,0.725,172.043,231226,"['rock', 'punk', 'alternative rock']"
+gjBgVu6qCyRL8W0s,Hilary Duff,All About You,All About You,2014,0.544,0.8740000000000001,1.0,1.0,0.635,158.128,162053,"['pop', 'k pop']"
+gSPJqtwezk6pnyd8,Beat Happening,Indian Summer,Jamboree,1988,0.445,0.5770000000000001,9.0,1.0,0.642,139.773,185040,['rock']
+ri58irl6ZOjLZN10,Underworld,Rez,Dubnobasswithmyheadman (Deluxe / 20th Anniversary Edition),1994,0.5820000000000001,0.921,2.0,1.0,0.231,126.998,597697,"['experimental', 'ambient', 'downtempo']"
+RNY6DoxkLbLCr99K,Glass Candy,The Possessed,Warm In The Winter,2013,0.502,0.629,9.0,1.0,0.616,181.572,350160,[]
+cFsu85CQbLc2uHPp,METZ,Spit You Out,II,2015,0.3229999999999999,0.977,2.0,1.0,0.1009999999999999,113.598,289924,"['post punk', 'metalcore']"
+ExUUYJW524PqkAHX,Mallu Magalhães,Nem Fé Nem Santo,Mallu Magalhães,2009,0.512,0.706,6.0,1.0,0.703,114.036,167133,['singer songwriter']
+9vBIOXJC4eEN4NcX,Vàli,Nordavindens Klagesang,Skogslandskap,2013,0.488,0.33,2.0,0.0,0.176,130.004,177680,"['folk', 'ambient']"
+8cM4LdET14KP9vSR,Mastodon,Cold Dark Place,Cold Dark Place,2017,0.401,0.713,7.0,0.0,0.155,135.958,359400,[]
+JJW1vVezs9LK9adY,Eddie Vedder,Better Days,Eat Pray Love (Original Motion Picture Soundtrack),2010,0.501,0.583,7.0,1.0,0.413,108.812,251253,"['folk', 'ambient', 'singer songwriter']"
+RMIYl1xtMtwupmbl,Cher,I'll Never Stop Loving You,Love Hurts,1991,0.382,0.475,1.0,1.0,0.2339999999999999,73.744,237467,[]
+iJTwfDUUXX1yNJKH,Stacey Kent,Les Eaux de mars,Raconte-Moi.,2010,0.732,0.276,1.0,1.0,0.6679999999999999,139.821,218240,['latin']
+c0hXYj4ZQRBplC8H,Samantha Fox,Do Ya Do Ya (Wanna Please Me),Greatest Hits,1992,0.527,0.899,10.0,0.0,0.5920000000000001,170.127,224267,[]
+kUgxCTcYzivas4W6,Lacuna Coil,Delirium,Delirium,2016,0.429,0.917,11.0,1.0,0.261,97.963,196080,[]
+p1SQQSVMTEc5RkvI,Neck Deep,Blank Pages,Wishful Thinking,2014,0.475,0.946,11.0,0.0,0.316,90.044,193391,"['emo', 'screamo']"
+0zojNJCp12ghZn9s,The Sword,To Take the Black,Gods Of The Earth,2008,0.28,0.94,2.0,1.0,0.3229999999999999,133.702,280667,[]
+7m4O82RMouSGFdxs,Karol Conka,Kaça,Ambulante,2018,0.731,0.8690000000000001,1.0,0.0,0.26,128.953,185413,"['rap', 'hip hop']"
+yWOhqri0uHUY5hzn,Sufjan Stevens,Pittsfield,The Avalanche,2006,0.3379999999999999,0.3329999999999999,5.0,1.0,0.275,86.54899999999998,411427,['indie pop']
+FDlSVFDHseAu7ZKr,Washed Out,Title Card,Mister Mellow,2017,0.409,0.515,6.0,0.0,0.418,84.25200000000002,30373,[]
+LqCSSXMe9csjYRJO,SpiritBox,"The Mara Effect, Pt.1",Spiritbox,2017,0.452,0.951,6.0,0.0,0.231,109.965,280556,['metal']
+EwktRONYpSELDOb0,Slayer,Killing Fields,Divine Intervention,1994,0.264,0.931,11.0,1.0,0.265,96.798,237507,['metal']
+86TAo1wylsSZ9XgB,Laura Marling,Don't Ask Me Why,A Creature I Don't Know,2011,0.306,0.192,3.0,1.0,0.152,161.793,238840,"['singer songwriter', 'latin']"
+3XrvzjFFZDpcnZHJ,Green Velvet,Bigger Than Prince - Hot Since 82 Remix,Bigger Than Prince,2013,0.825,0.851,4.0,0.0,0.855,122.012,395120,"['rap', 'ambient', 'deep house', 'electro']"
+t5OR1Oo9qR6DXH2Y,C418,Key,Minecraft - Volume Alpha,2011,0.187,0.00376,6.0,1.0,0.0374,69.2,65000,"['experimental', 'lo fi', 'ambient']"
+hKufymQnWDacWlRT,Mylène Farmer,L'amour n'est rien...,2001-2011,2011,0.6679999999999999,0.784,1.0,1.0,0.815,99.987,301013,['pop']
+MthjnOkqRJKsDfX7,Knife Party,Begin Again,Abandon Ship,2014,0.636,0.968,8.0,1.0,0.5529999999999999,127.986,355200,"['experimental', 'hip hop', 'alternative rock', 'synthwave']"
+7Ctav4DkpPXqcYiU,Evile,Cult,Five Serpent's Teeth,2011,0.51,0.911,10.0,1.0,0.5579999999999999,140.053,291960,['metal']
+1K7zJdVbFkvcaZiL,Book Of Love,Boy,Book Of Love,1986,0.6990000000000001,0.629,7.0,1.0,0.151,123.449,177427,"['rock', 'punk', 'post punk', 'indie rock']"
+x7LPklkjfAsKjeiF,Weather Report,A Remark You Made,Heavy Weather (Expanded Edition),1977,0.405,0.176,8.0,1.0,0.153,104.527,410720,['folk']
+u5xc5PapuuRRqu0H,Stereophonics,Dakota,Language.Sex.Violence.Other?,2005,0.506,0.93,4.0,1.0,0.305,146.994,297427,['rock']
+yvdP8JCh5W2j5yJ0,LCD Soundsystem,Too Much Love,LCD Soundsystem,2005,0.696,0.853,10.0,0.0,0.915,118.3,342493,[]
+1QV9XeTYl23pF1VC,Autechre,VL AL 5,Draft 7.30,2003,0.772,0.7909999999999999,2.0,1.0,0.366,98.986,296587,['metal']
+7qDMcWjVe5tM3cg3,Apati,Lämna mig ifred,Morgondagen Inställd I Brist På Intresse,2010,0.1009999999999999,0.847,0.0,0.0,0.104,184.693,407500,[]
+nmInZiwOdWgpZ45L,John Mayer,If I Ever Get Around to Living,Born and Raised,2012,0.5589999999999999,0.4679999999999999,0.0,1.0,0.316,80.014,321720,[]
+95LqUpnGZYB4xqak,Futurecop!,N.A.S.A.,N.A.S.A. (feat. Codebreaker),2011,0.564,0.8320000000000001,5.0,1.0,0.266,126.003,229762,"['rock', 'post punk']"
+1zlRbs9j8HJPc6LF,The Paper Kites,Paint,Young North - EP,2013,0.364,0.308,4.0,1.0,0.389,73.331,191773,['singer songwriter']
+YvSCbCUS3bzQlOJR,Alexa Feser,Gold reden,A!,2019,0.899,0.586,5.0,1.0,0.505,140.026,185750,[]
+q3qxorRJXFhwfaZm,Atoms for Peace,Reverse Running,AMOK,2013,0.419,0.616,1.0,1.0,0.282,78.301,306424,[]
+0wwpblJ9JkW1sjpc,Feint,Atlas,Monstercat 001 - Launch Week,2011,0.472,0.9,6.0,0.0,0.362,87.56,288018,[]
+G24tCEV85IrHNqIA,Anahí,Siempre Tú,Inesperado,2016,0.6679999999999999,0.603,8.0,1.0,0.313,122.002,212240,['pop']
+4X2xA8oKrmg8l5kn,Electric Light Orchestra,Laredo Tornado,Eldorado,1974,0.456,0.359,4.0,0.0,0.4370000000000001,84.698,330067,['rock']
+I0GVeuQ3fhUNLTa2,dEUS,"7 Days, 7 Weeks",Pocket Revolution,2005,0.6409999999999999,0.612,0.0,1.0,0.544,133.046,233310,[]
+ps1VsnAOswuKPEIu,Pet Shop Boys,Opportunities (Let's Make Lots Of Money),Please,1986,0.6729999999999999,0.908,8.0,1.0,0.647,120.286,224000,[]
+NNVp9iCEsQDFESV3,Kent,Den sista sången,Då Som Nu För Alltid,2016,0.488,0.625,4.0,0.0,0.284,165.979,316373,['black metal']
+htRsRpI7s9Sacvtv,Lifelover,Doften Av Tomhet,Sjukdom,2011,0.471,0.903,7.0,1.0,0.17,84.98200000000001,303387,"['metal', 'death metal']"
+58OCieQ6DcHyfOaT,Annihilator,Knight Jumps Queen,Set The World On Fire,1992,0.546,0.942,4.0,0.0,0.853,176.795,226360,['rock']
+M1CF6vlEUcd0IJYV,Fenne Lily,Bud,On Hold,2018,0.3829999999999999,0.238,3.0,1.0,0.301,176.77700000000004,215084,[]
+zB8lDmwWlbJ6meIQ,Jacques Greene,Fever Focus,Fever Focus,2018,0.735,0.787,7.0,0.0,0.414,120.016,274549,"['experimental', 'ambient']"
+nnr0Mh3ueZVnfkv8,Jeremy Soule,Wind From the Depths,The Elder Scrolls IV: Oblivion: Original Game Soundtrack,2006,0.165,0.233,1.0,0.0,0.039,73.817,102191,"['ambient', 'downtempo']"
+qYfr0fJlPwCF0Y5o,Planning for Burial,Past Lives,Below the House,2017,0.281,0.4029999999999999,4.0,1.0,0.309,135.754,204551,"['black metal', 'industrial']"
+eBqFt8uMUsEuaZTr,Do Make Say Think,Bound To Be That Way,You You're A History In Rust,2007,0.284,0.477,7.0,1.0,0.0595,158.471,456013,"['post rock', 'black metal', 'ambient']"
+l961nSNtaAScfjnP,As It Is,"You, the Room & the Devil on Your Shoulder","Never Happy, Ever After",2015,0.472,0.291,2.0,1.0,0.1969999999999999,85.109,175776,"['rock', 'indie rock', 'folk']"
+EjExqJtR5u1e1sMB,Dead or Alive,Lover Come Back (To Me),That's The Way I Like It: The Best of Dead Or Alive,2010,0.613,0.975,7.0,1.0,0.452,122.135,192227,"['rock', 'punk', 'post punk']"
+aB168CF1WBQ1CNsu,Crybaby,When The Lights Go Out,Crybaby,2012,0.507,0.581,4.0,1.0,0.428,124.935,204160,['reggae']
+aDKc20ZUZjbfFBTs,Psychic TV,Hymn 23,Dreams Less Sweet,1983,0.191,0.0396,4.0,1.0,0.246,77.561,41564,[]
+Sw4P86621DSIRxNR,Say Lou Lou,Skylights,Lucid Dreaming (Deluxe Edition),2015,0.505,0.764,9.0,0.0,0.296,92.518,275440,[]
+YjjL9ii0yzQLb4Ue,Lostprophets,Last Summer,Start Something,2004,0.606,0.682,7.0,1.0,0.474,151.863,247320,[]
+hiZOnY63Q67hWHMU,The Neighbourhood,Greetings from Califournia,Wiped Out!,2015,0.488,0.725,5.0,0.0,0.309,81.235,244040,[]
+PfwFF5GH85w6BRg8,Cidadão Instigado,Ficção Científica,Fortaleza,2015,0.638,0.521,0.0,1.0,0.516,103.017,333787,['experimental']
+cnwgzYJg3fln2E4T,Four Tet,10 Midi,New Energy,2017,0.537,0.0743,6.0,1.0,0.113,61.889,85056,"['soundtrack', 'ambient']"
+lioWc7J6lWdI6lN9,Snarky Puppy,Shofukan,We Like It Here,2014,0.426,0.754,4.0,0.0,0.228,167.42,393053,['rock']
+FeDcntNEYkYEpac6,Deltron 3030,Mastermind,Deltron 3030,2000,0.741,0.657,0.0,0.0,0.25,94.211,214307,[]
+n8gpDrfiW1Rn0SBx,Ride,Integration Tape,Weather Diaries,2017,0.226,0.461,0.0,1.0,0.0499,78.622,146480,"['folk', 'ambient']"
+Le8agN04k6N9QVO4,Real Friends,Cover You Up,Maybe This Place Is The Same And We're Just Changing,2014,0.474,0.959,1.0,1.0,0.581,100.559,171884,[]
+VUYjqseTlol31WfH,Bloc Party,I Still Remember,A Weekend In The City (Re-release),2007,0.426,0.904,10.0,1.0,0.316,140.026,261360,"['rock', 'classic rock']"
+7OhUIHcSBTJbnsmx,Röyksopp,Remind Me - Radio Edit,Melody AM,2001,0.8270000000000001,0.518,7.0,0.0,0.909,122.477,216667,"['rock', 'progressive rock', 'hip hop']"
+v2sJv9M0g9iRewuu,Enej,Idealny sen,Idealny Sen,2019,0.491,0.855,9.0,0.0,0.708,164.84599999999998,230500,[]
+9KPubVhLyWm4p1ZO,AOA,Oh Boy,AOA 1st Album ANGEL'S KNOCK,2017,0.6829999999999999,0.907,10.0,0.0,0.626,123.983,210711,"['pop', 'k pop']"
+XCo1yIjC0YmXWv6Z,Kelela,Better,Take Me Apart,2017,0.637,0.178,10.0,0.0,0.3329999999999999,99.921,266041,"['pop', 'latin']"
+nYA5DPSzfl8ZFB0b,Brequette,NO ENEMY,No Enemy,2016,0.705,0.75,2.0,1.0,0.33,101.937,175240,['soundtrack']
+uVbNO4Qt3zSaho37,Many Voices Speak,I Saw You,Tank Town,2018,0.525,0.682,1.0,1.0,0.1669999999999999,122.007,254507,[]
+8yK4GnMRuS7QbV6g,The Cure,Just Say Yes,Greatest Hits,2001,0.62,0.969,4.0,0.0,0.529,110.031,209627,[]
+z3ZwhQ1YZ4ZMBNGa,Bob Dylan,Tonight I'll Be Staying Here with You,Nashville Skyline,1969,0.583,0.38,7.0,1.0,0.529,81.892,201133,"['experimental', 'folk']"
+iGOB7w63MF0CnSHs,Black Stone Cherry,Built For Comfort,Black To Blues,2017,0.3329999999999999,0.88,0.0,1.0,0.49,162.838,264280,['experimental']
+9DK4b2Mh3tOoa9SS,Ratos De Porão,Beber Até Morrer,Brasil,1989,0.305,0.7390000000000001,9.0,1.0,0.885,143.425,138907,['punk']
+FhcwEqAhYLYX9D7z,Manchester Orchestra,All That I Really Wanted,HOPE,2014,0.488,0.136,9.0,1.0,0.2339999999999999,129.119,217400,"['rock', 'post punk', 'indie rock']"
+FrQia139i1kvtgf3,Etta James,Pushover,The Sweetest Peaches [Part One (1940-1966)],1990,0.757,0.624,5.0,1.0,0.936,120.18,174733,[]
+ujDsJU3lbcdsLDrY,Metronomy,Love's Not an Obstacle,Summer 08,2016,0.8740000000000001,0.209,7.0,0.0,0.518,130.042,195440,['soundtrack']
+EYgHVtFiw13BkGdk,The Tossers,The Rocky Road To Dublin,On a Fine Spring Evening,2008,0.55,0.906,7.0,1.0,0.882,143.503,160907,['rock']
+4VlD4hA22osMVJpE,Robert Pollard,Paradise Style,Fiction Man,2004,0.4429999999999999,0.922,9.0,1.0,0.742,127.812,62853,"['rock', 'post punk']"
+oIwWI8m57BwiXcrM,U.S. Girls,Incidental Boogie,In a Poem Unlimited,2018,0.522,0.921,10.0,0.0,0.285,91.967,203381,[]
+EJ14abN6ofBZNxkW,The Obsessives,When One Thing Ends,The Obsessives,2017,0.555,0.47,7.0,1.0,0.396,95.934,191814,"['post punk', 'indie rock', 'post rock', 'indie pop']"
+Vre1Z9chMNxPGjZt,Ceremony,Citizen,Zoo,2012,0.4,0.929,2.0,1.0,0.59,103.416,124387,[]
+5SFDCKtOhYGoFVlP,Agridoce,Epílogos,Agridoce,2011,0.444,0.536,7.0,1.0,0.517,155.971,211501,[]
+ueavcCtl9jMXUFWH,FM-84,Tears,Atlas,2016,0.416,0.672,1.0,1.0,0.144,163.995,335000,[]
+D9MQXuJKERgxiycM,Eva Simons,Avalon,Avalon,2017,0.348,0.62,10.0,0.0,0.4539999999999999,71.521,205417,"['rap', 'hip hop']"
+hyb2xFnm9UmgNzHW,Odesza,Late Night,A Moment Apart,2017,0.612,0.628,2.0,1.0,0.434,125.043,228155,[]
+383oklGBXJkweUXV,As I Lay Dying,I Never Wanted,An Ocean Between Us,2007,0.371,0.972,5.0,0.0,0.133,138.095,284107,[]
+NDzPPo92QZJlIQ40,Simon & Garfunkel,You Don't Know Where Your Interest Lies,Old Friends,1997,0.794,0.348,2.0,0.0,0.777,127.921,138600,[]
+IkvyslN3SS7G3fwt,Nana Grizol,Photos from When We Were Young,Ursa Minor,2017,0.602,0.374,7.0,1.0,0.598,83.5,205173,['indie pop']
+nbb413wkKEs5mFy0,The Alan Parsons Project,Day After Day (The Show Must Go On),I Robot (Legacy Edition),1977,0.481,0.46,0.0,1.0,0.3389999999999999,111.119,237160,['rock']
+GAEdyl6SKVCeI4rl,Pet Shop Boys,King's Cross,Actually,1987,0.64,0.614,5.0,0.0,0.302,115.013,312227,['pop']
+1mXG5EbEMdpwF8hZ,Rodrigo Amarante,Irene,Cavalo,2014,0.5489999999999999,0.1169999999999999,6.0,0.0,0.309,175.574,197920,['singer songwriter']
+20pUCtue1WS5Ou0T,android52,eternal groove,The B-Sides,2017,0.7290000000000001,0.923,11.0,0.0,0.657,127.996,169091,[]
+F9pLxs3NBoaDpuly,Kylie Minogue,Get Outta My Way - 7th Heaven Radio Edit,Get Outta My Way (Remixes EP 2),2010,0.527,0.85,6.0,0.0,0.632,127.949,217320,"['rock', 'pop']"
+4jjzdGXYDXTfEbyb,Chase Atlantic,Triggered,Chase Atlantic,2017,0.4479999999999999,0.7290000000000001,9.0,0.0,0.12,74.962,249507,[]
+3iEyfzmNI9PHytoX,Foo Fighters,Cold Day in the Sun,In Your Honor,2005,0.613,0.887,7.0,1.0,0.76,132.834,200627,['rock']
+wDyj5kGIYlf6Wpyx,Yonderboi,Before you snap,Splendid Isolation,2005,0.3879999999999999,0.498,10.0,0.0,0.166,124.132,389720,[]
+kn3iHrJGW5899qNQ,Lady Antebellum,When You Got a Good Thing,Need You Now,2010,0.546,0.637,7.0,0.0,0.308,132.944,297867,['rock']
+R93nGhX77Dv4KMhF,Talk Talk,Mirror Man,The Party's Over,1982,0.698,0.6709999999999999,1.0,0.0,0.723,108.668,201960,['rock']
+i7Dlt8fIQHsloZ9m,OVERWERK,Toccata,Canon,2015,0.653,0.6629999999999999,2.0,1.0,0.526,128.026,410742,[]
+ua5A3mFX6oxgFKuz,Tiago Iorc,Dia Especial,Dia Especial - Single,2015,0.425,0.4589999999999999,3.0,1.0,0.3670000000000001,152.09799999999996,237870,[]
+L4etrJH5eKpfhjhc,Timebelle,Apollo - Eurovision Version,Apollo,2017,0.606,0.562,10.0,1.0,0.285,86.992,179307,['pop']
+zGaiFZ0VxDh7df1X,ROTTENGRAFFTY,世界の終わり,PLAY,2018,0.4529999999999999,0.961,1.0,0.0,0.433,95.868,221627,[]
+H66ge9FrdgjcK8Cc,Boa,KEY OF HEART,MADE IN TWENTY(20),2007,0.601,0.927,0.0,1.0,0.546,108.086,301767,['pop']
+LDZ9lVK1aikZ12JP,Andreas Rönnberg,Lonely,Cry of Fear (Official Soundtrack),2012,0.687,0.141,9.0,0.0,0.0434,120.064,149944,['soundtrack']
+gvZlflgWpKfswiOM,John Fahey,Sligo River Blues,The Legend Of Blind Joe Death,1996,0.385,0.2689999999999999,11.0,1.0,0.41,80.027,185400,"['folk', 'ambient', 'singer songwriter']"
+un3sk343RJ0sOg81,Future Islands,Beach Foam,Wave Like Home,2008,0.382,0.5489999999999999,11.0,0.0,0.0572,100.204,264502,[]
+H6MENEHNYBQh5CNc,Steve Hackett,Under the Eye of the Sun,At The Edge Of Light,2019,0.345,0.7240000000000001,9.0,1.0,0.0502,145.08100000000005,426987,[]
+dAr5HmQWfTU6dF0M,Daughtry,Just Found Heaven,Cage To Rattle,2018,0.395,0.757,9.0,0.0,0.317,155.89,253680,[]
+YkvTD2r534Kv5T4R,Daughter,Home,Wild Youth,2012,0.677,0.425,7.0,0.0,0.252,103.602,258973,[]
+NUMOcttpTYCiJpq8,Ases Falsos,Séptimo Cielo,Juventud Americana,2012,0.78,0.7,7.0,0.0,0.723,116.073,179217,['indie pop']
+wmK40PGHiXPTBbfb,Demi Lovato,Wouldn't Change a Thing,Camp Rock 2: The Final Jam,2010,0.359,0.883,1.0,1.0,0.481,171.725,203840,['pop']
+3havXbxiow34JblA,Casey Edwards,Devil Trigger,Devil Trigger,2018,0.503,0.948,6.0,1.0,0.245,159.942,405212,[]
+HokXU8y16gJdDId2,Sandy e Junior,Não Abuse de Mim,Sonho Azul,1997,0.701,0.821,7.0,1.0,0.747,97.657,193133,['pop']
+HTAJJqZ8UdYZNz5g,Saosin,Is This Real,In Search Of Solid Ground,2009,0.25,0.942,9.0,0.0,0.368,189.937,238733,"['garage rock', 'alternative rock', 'melodic hardcore']"
+kmHVTJOhFJPL67WD,Green Day,Walk Away,¡TRÉ!,2012,0.45,0.941,2.0,1.0,0.613,122.769,225893,"['rock', 'indie rock', 'alternative rock']"
+agbuDoUse74BlaX7,Chemise,She Can't Love You,A Night to Remember (Mixed By Tony Okungbowa & Jojoflores),2012,0.963,0.742,4.0,0.0,0.6940000000000001,114.689,217667,['soul']
+qrEaojN0Mh06loGx,Jónsi,Boy Lilikoi,Go,2010,0.4429999999999999,0.8390000000000001,10.0,1.0,0.305,144.903,269760,[]
+O5xePKFZiruq0WEj,Maria Mena,Fuck You,Weapon in Mind,2013,0.5429999999999999,0.752,10.0,1.0,0.5820000000000001,111.104,194920,['pop']
+92sYi2jqT81CHTre,Celia Pavey,Shadow,Bodies,2014,0.561,0.321,2.0,0.0,0.254,89.719,221620,['singer songwriter']
+3V4W61wmOLFStYxn,Within Temptation,The Truth Beneath the Rose,The Heart of Everything,2007,0.15,0.955,3.0,0.0,0.0726,178.299,423213,[]
+2Yc6yyyn0aqzAq6V,Jarryd James,Do You Remember,High,2016,0.6709999999999999,0.303,1.0,0.0,0.306,72.025,235293,"['pop', 'latin']"
+IivtZnNBGrjioblw,From Indian Lakes,Am I Alive,Absent Sounds,2014,0.5529999999999999,0.5329999999999999,9.0,1.0,0.231,77.509,193568,[]
+bEcdt3sXoRKV0U8d,Simon & Garfunkel,El Condor Pasa (If I Could),Bridge Over Troubled Water,1970,0.33,0.214,4.0,0.0,0.275,147.795,187040,"['rock', 'classic rock']"
+tOaLdz4cQZ2KOZRK,Shania Twain,Don't Be Stupid (You Know I Love You),Come On Over,1997,0.773,0.6409999999999999,2.0,1.0,0.903,122.025,214240,[]
+WYw2tcevmYB3dhBr,IZ*ONE,We Together - IZ*ONE Ver.,COLOR*IZ,2018,0.674,0.9,4.0,1.0,0.6509999999999999,115.116,226226,"['pop', 'k pop', 'girl group', 'synthwave']"
+mfAIiHxsQDT5Qs7n,They Might Be Giants,She's An Angel,They Might Be Giants,1986,0.605,0.521,4.0,1.0,0.4920000000000001,166.394,157400,"['rock', 'indie rock']"
+48yFItrJMRXWneOe,Prince,Art Official Cage,ART OFFICIAL AGE,2014,0.7979999999999999,0.74,1.0,0.0,0.7879999999999999,129.944,221542,[]
+iiqkA2V3AaoowaWn,Night Club,Bad Girl,Requiem for Romance,2016,0.659,0.933,6.0,1.0,0.407,109.994,177912,['latin']
+3FXOryzKws5DuzFG,Penetration,Don't Dictate,Moving Targets,1978,0.46,0.765,2.0,1.0,0.196,167.764,176227,[]
+xWmmXVSd21vT2Q9f,Enya,Sumiregusa (Wild Violet),Amarantine,2005,0.17,0.212,8.0,1.0,0.0435,79.669,282773,"['experimental', 'soundtrack', 'ambient']"
+SR0SOGJU8UrJVXKj,Roxette,Fading Like a Flower,Joyride (Deluxe Version),1991,0.609,0.6679999999999999,0.0,1.0,0.319,105.419,230680,"['pop', 'latin']"
+0JtMllx4BGVKFLku,Alice Smith,Dream,"For Lovers, Dreamers & Me",2006,0.625,0.5429999999999999,1.0,1.0,0.45,133.692,268640,"['pop', 'folk']"
+yUJxLCmQVigiYOXP,Jaremi Carey,Take Control,Take Control,2015,0.752,0.8859999999999999,7.0,0.0,0.635,127.995,186593,['pop']
+igByeFTlvVXPDp7D,Boys Age,Postcards Holiday,The Odyssey,2014,0.669,0.753,0.0,1.0,0.5429999999999999,95.109,234414,['singer songwriter']
+1FTNGgQ5zGpdB1xf,Ian William Craig,"Arrive, Arrive",Slow Vessels,2017,0.31,0.23,4.0,1.0,0.0732,95.701,239840,"['folk', 'ambient', 'contemporary classical']"
+62G4jtKj0y1IyHcS,Drowners,Unzip Your Harrington,Drowners,2014,0.5720000000000001,0.775,2.0,1.0,0.4579999999999999,122.051,151973,['rock']
+9tWODyC882hDnpKL,Jeito Moleque,Sem Radar,Ao Vivo na Amazônia,2008,0.421,0.607,6.0,1.0,0.484,155.97,342732,[]
+rHr6DXG0XXHROaxs,Lettuce,Do It Like You Do,Fly,2012,0.746,0.525,0.0,1.0,0.835,95.116,251293,['folk']
+8QeFZyMk443bAPAH,Finntroll,Fiskarens Fiende,Nattfödd,2004,0.262,0.889,11.0,1.0,0.504,64.36,227040,"['metal', 'black metal']"
+N6q3t8ONBYXyVOI2,David Archuleta,Touch My Hand,David Archuleta,2008,0.687,0.731,9.0,1.0,0.405,109.006,261107,[]
+DF7DR4ouzpRKsyAR,Morphine,Bo's Veranda,B-Sides And Otherwise,1997,0.5920000000000001,0.4539999999999999,1.0,0.0,0.552,87.119,194493,[]
+c7P73zoNOJDyssxh,Jack Johnson,Adrift,Sleep Through The Static,2008,0.64,0.198,0.0,1.0,0.36,80.805,236227,"['folk', 'singer songwriter', 'mpb', 'latin']"
+LVngAZYKO7oRyIMr,Ramones,Planet Earth 1988,Too Tough To Die,1984,0.6,0.84,9.0,0.0,0.499,125.361,174667,"['rock', 'punk', 'post punk']"
+qXjMvOIUAvyPDwL1,Hot Chip,One Pure Thought,Made In The Dark,2008,0.7070000000000001,0.825,10.0,0.0,0.614,121.072,297055,[]
+iWZY1rQGYQr4CrTf,Nine Lashes,Never Back Down,From Water to War,2014,0.455,0.861,5.0,0.0,0.5529999999999999,105.982,203560,[]
+8g2EjP8xmq1i3Oed,Paula Toller,Meu Amor Se Mudou Pra Lua,Nosso (Ao Vivo),2008,0.485,0.6709999999999999,9.0,1.0,0.429,175.907,197512,"['pop', 'latin']"
+hDW5JSu85AKutYRP,IAMX,Heatwave,Kiss + Swallow,2004,0.715,0.7170000000000001,5.0,1.0,0.643,124.968,312267,"['experimental', 'rap', 'hip hop', 'soundtrack']"
+K0sZ42SLutEu9IG5,Glass Animals,Mama's Gun,How To Be A Human Being,2016,0.46,0.314,6.0,0.0,0.216,90.014,266747,[]
+HRm1RFmyqGom8cZK,Hippo Campus,simple season,Landmark,2017,0.598,0.784,8.0,1.0,0.597,105.009,207134,[]
+plzfKjieZQ8RY9AR,Tigers Jaw,I Was Never Your Boyfriend,Tigers Jaw,2010,0.353,0.942,11.0,1.0,0.588,164.93599999999995,168427,['metal']
+SUNSLfCfrkaJ7PjB,Foreigner,"Blue Morning, Blue Day",Double Vision (Expanded),1978,0.65,0.846,11.0,0.0,0.537,119.822,192973,"['rock', 'post punk', 'hard rock']"
+1TdW6Jqjs7soE3KB,Ouzo Bazooka,Space Camel,Transporter,2019,0.483,0.931,0.0,1.0,0.887,91.575,397813,['experimental']
+taL8ME1kumgu3jPz,Jack Back,Grenade,Grenade,2018,0.6990000000000001,0.805,0.0,1.0,0.322,124.011,301935,[]
+9Uxv28iwxz7C0jSk,Love,7 and 7 Is,Da Capo,1966,0.4529999999999999,0.7879999999999999,9.0,0.0,0.55,78.50399999999998,139160,"['rock', 'post punk']"
+xkPTvAc1BtmgvjfM,Protoje,Who Knows,Ancient Future,2014,0.6829999999999999,0.7240000000000001,5.0,0.0,0.742,80.932,208467,['latin']
+0oToxZDXkV39G1ZX,Puscifer,Toma,Conditions of My Parole,2011,0.3379999999999999,0.903,0.0,1.0,0.534,183.916,219813,"['rock', 'indie rock', 'alternative rock']"
+WiROOqPPMcNFmnEJ,Vidar Villa,Moren Din,Best Of (Vol. 1),2018,0.6759999999999999,0.742,3.0,1.0,0.743,104.985,171707,['rock']
+3rmHRodVfhHkzFYy,Little Dragon,Recommendation,Best Of,2014,0.85,0.4429999999999999,0.0,1.0,0.731,67.08,232333,[]
+SY3g304TR79ZpZs6,Street Sects,Before it Was Worn,The Kicking Mule,2018,0.402,0.903,4.0,1.0,0.26,99.886,177976,"['rock', 'metalcore']"
+kDnPxK8sC3gVrUKt,Anathema,"Untouchable, Part 2",A Sort of Homecoming,2015,0.354,0.241,11.0,0.0,0.206,126.155,385036,[]
+Rdnt9dySvfzrIfCf,Cala Vento,Historias de bufanda,Fruto Panorama,2017,0.471,0.935,5.0,1.0,0.335,157.115,199639,"['post punk', 'experimental']"
+5YTwsVZGNGcuBFrs,Soilwork,"My Nerves, Your Everyday Tool",Death Resonance,2016,0.192,0.967,11.0,0.0,0.257,155.623,257696,"['rock', 'punk', 'post hardcore']"
+t0cmazJZ6UgIkF6s,Apoptygma Berzerk,Until the End of the World,Harmonizer (Deluxe Bonus Track Edition) [Remastered],2002,0.649,0.915,10.0,0.0,0.3720000000000001,130.484,354773,['rock']
+2Lz8WaNRqDAZnrYC,Phill Veras,Deixa Ser Bom,Alma,2018,0.522,0.477,5.0,1.0,0.531,134.128,223200,[]
+jktSKyJYVpoC9W8o,Ulrich Schnauss,Blumenwiese neben Autobahn,Far Away Trains Passing By,2008,0.7190000000000001,0.603,10.0,0.0,0.253,109.876,391813,['soundtrack']
+yGa8a8r9MohiymNg,Elza Soares,A Mulher do Fim do Mundo,A mulher do fim do mundo (The Woman at the End of the World),2016,0.527,0.5489999999999999,4.0,0.0,0.285,156.03,277680,"['rap', 'soundtrack', 'beats']"
+fle2Sm8vu5zzcMC6,Hugar,Inngangur,Hugar,2014,0.405,0.00996,9.0,0.0,0.349,67.82,87517,"['soundtrack', 'ambient', 'classical', 'dark ambient']"
+sKEciWcokcWOAw2g,Ayreon,Liquid Eternity,01011001,2008,0.298,0.675,0.0,1.0,0.171,184.012,489747,[]
+SFjGmQkLjsGJJ88Y,All Saints,Not Eazy,Studio 1,2006,0.8,0.873,5.0,1.0,0.723,129.965,197568,[]
+rYOevH2eTOvU9F30,Selena,I'm Getting Used To You,La Leyenda (Version Super Deluxe),2010,0.865,0.69,11.0,0.0,0.921,107.779,241093,['pop']
+pFPFFwEcAzOdTsjh,Seahaven,It's Over,Winter Forever,2011,0.4920000000000001,0.912,5.0,1.0,0.34,135.874,205031,['post punk']
+lIwIVeh2QBzoLCer,Barasuara,Haluan,Pikiran dan Perjalanan,2019,0.5539999999999999,0.87,9.0,0.0,0.2269999999999999,97.475,191704,[]
+waVYD3ijoe31BVTM,Four Tet,Lion (Jamie xx remix),Pink Remixes,2012,0.802,0.4970000000000001,10.0,0.0,0.07,120.019,428500,['ambient']
+J5xAQcOAXXeVQZgf,Anamanaguchi,EVERYTHING EXPLODES,Endless Fantasy,2013,0.2,0.675,6.0,1.0,0.312,199.757,162763,[]
+p4xxrnqnxHCqkN5c,Metronomy,On The Motorway,Nights Out (10th Anniversary Edition),2019,0.823,0.879,10.0,0.0,0.986,160.085,154827,[]
+zjcqgG2uW6Oz6KJZ,Pet Shop Boys,New York City Boy,Nightlife: Further Listening 1996 - 2000 (2017 Remastered Version),1999,0.7240000000000001,0.991,2.0,0.0,0.86,131.10299999999998,315280,[]
+DeVRbUzczApIf9xG,Tiê,Vou Atrás,Esmeraldas,2014,0.655,0.444,1.0,1.0,0.815,73.015,182600,[]
+P4aY9Y8mq0Doi8uT,The Raven Age,Fleur de lis,Fleur de lis,2018,0.4529999999999999,0.971,2.0,1.0,0.252,85.027,253000,"['metal', 'power metal', 'symphonic metal']"
+2WUbcfexNIpDylIe,Floral,Climbing a Wall,Floral EP,2014,0.29,0.7509999999999999,11.0,1.0,0.6779999999999999,151.097,219266,"['rock', 'punk']"
+0ZeEftBN4FsNWvsq,Live,Lightning Crashes,Throwing Copper,1994,0.3979999999999999,0.4320000000000001,11.0,1.0,0.457,93.705,325600,[]
+ZkDR44cNDY2M5Rhq,Oasis,Champagne Supernova - Remastered,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],1995,0.286,0.7959999999999999,2.0,1.0,0.12,150.27200000000005,448438,['rock']
+ZQMvxI54HaBf9Iyz,Trophy Eyes,Chemical,Chemical Miracle,2016,0.423,0.925,1.0,1.0,0.424,89.98100000000002,220000,"['punk', 'post hardcore', 'metalcore', 'hardcore', 'screamo', 'pop punk']"
+FC7qoYMTBuqG6AXW,Ira Wolf,Fickle Heart,Fickle Heart,2014,0.65,0.23,1.0,1.0,0.154,90.19,201116,"['pop', 'singer songwriter', 'latin']"
+xRjugc7uM8LkOsZl,The Whitest Boy Alive,Golden Cage,Dreams,2006,0.835,0.693,4.0,0.0,0.929,119.699,242440,"['easy listening', 'jazz']"
+g7FZp88d810nqzaQ,Hotel Books,There Is,I'll Leave the Light on Just in Case,2019,0.401,0.583,7.0,1.0,0.0716,138.922,231429,"['rap', 'trap']"
+kEdeHkMivUBJqdzW,David August,33chants,D'ANGELO,2018,0.535,0.6990000000000001,2.0,0.0,0.258,113.022,334467,"['post punk', 'experimental', 'indie rock', 'post rock', 'lo fi', 'indie pop', 'ambient']"
+gHEMWPeZroUS5D3e,Laurel Halo,Leaves,In Situ,2015,0.471,0.424,7.0,1.0,0.093,157.546,199142,['experimental']
+6lnpVb0phLKQfcFR,Rosetta,(Untitled I),Quintessential Ephemera,2015,0.348,0.843,3.0,0.0,0.259,135.003,426853,"['metal', 'post hardcore', 'hardcore']"
+U7icSLeTDUWqKFfi,David Bowie,You Feel So Lonely You Could Die,The Next Day,2013,0.38,0.637,10.0,1.0,0.387,159.797,277707,[]
+BeM9jQopehpqBkTM,Seinabo Sey,Still,Pretend,2015,0.4039999999999999,0.27,10.0,1.0,0.39,168.977,173210,['singer songwriter']
+w96dy0mPEu5iZAZr,Melanie C,I Want Candy,This Time,2007,0.602,0.991,8.0,1.0,0.757,101.028,206187,['synthwave']
+1YlyPf1JeFwSRWGd,Carla Bruni,La noyée,Quelqu'un m'a dit,2002,0.408,0.284,10.0,1.0,0.206,104.891,242120,[]
+6tC2z6h6YG5X5SxH,Wormrot,Meteor to the Face,Dirge,2011,0.255,0.996,1.0,1.0,0.0385,85.292,38440,['metal']
+0Pkf7F7zS6AGc1PD,Criolo,é o teste,Ainda Há Tempo,2016,0.644,0.728,10.0,0.0,0.595,91.101,279720,[]
+MYAYkM28SgYjcGfL,Cluster,Halwa,Sowiesoso,1976,0.4429999999999999,0.283,8.0,1.0,0.0396,116.911,171960,['ambient']
+81dnoOfqRLi4hr9g,Maggie Lindemann,Pretty Girl - Cheat Codes X Cade Remix,Pretty Girl (Cheat Codes X CADE Remix),2017,0.703,0.868,7.0,0.0,0.733,121.03,193613,['pop']
+YnMFtcKuzBMTvcxB,Mariah Carey,Ribbon,Memoirs of an imperfect Angel,2009,0.619,0.578,6.0,0.0,0.413,119.127,261040,"['pop', 'latin pop']"
+u1HFMaombYv5OBS6,Sade,Paradise,The Best Of Sade,1994,0.7390000000000001,0.7909999999999999,1.0,1.0,0.968,99.82,217467,[]
+04k3rCH5GDaZmhj0,Hante.,Nous ne Ferons qu'Un,Between Hope & Danger,2017,0.569,0.966,2.0,1.0,0.293,125.998,249750,[]
+Wu01T6IpSuVzCei6,Death in June,We Said Destroy II,All Pigs Must Die,2001,0.191,0.6659999999999999,11.0,0.0,0.251,61.521,231758,"['rock', 'indie rock', 'folk']"
+7SahqPLsWUfyv7WY,Testament,Return to Serenity,The Ritual,1992,0.294,0.613,1.0,1.0,0.231,112.767,390800,[]
+RcNpnhJYTSUQpcIr,Shlohmo,Meet Ur Maker,Dark Red,2015,0.519,0.7859999999999999,9.0,1.0,0.0933,150.03799999999995,323200,"['rap', 'hip hop']"
+Mz5Ny0ygMNgcZHA9,Depeche Mode,Damaged People,Playing The Angel (U.S. Release),2005,0.488,0.601,7.0,1.0,0.0974,143.862,207733,['folk']
+yADt1y3whAT97TVo,Elza Soares,Bambino,Trilha Sonora Original do Filme: Chega de Saudade,2016,0.557,0.601,9.0,1.0,0.556,79.955,202240,"['pop', 'soul']"
+5UziV5NUOgAp5y7W,Bridgit Mendler,All I See Is Gold,Hello My Name Is...,2012,0.5589999999999999,0.291,1.0,0.0,0.0706,101.877,173947,"['pop', 'indie pop']"
+C3V31sWOCUxqmP2s,The Raconteurs,Intimate Secretary,Broken Boy Soldiers,2006,0.3339999999999999,0.8370000000000001,8.0,1.0,0.0565,100.919,210040,['rock']
+cVvu8oMv6AWPGcYt,September,Intimate Connection,Love CPR,2011,0.675,0.726,2.0,1.0,0.92,124.959,215173,['soundtrack']
+RvZUGjFw9f2woxRy,VNV Nation,Requiem for Wires,Noire,2018,0.158,0.203,5.0,1.0,0.0389,82.492,284727,['experimental']
+GNF8rnm6UHhmCxqY,Laura Rizzotto,Tightrope,Tightrope (Bolth & JrA Remix),2019,0.773,0.596,0.0,0.0,0.204,123.982,274739,['pop']
+lGebFMdrKf6Y6gTW,Amen Dunes,Calling Paul the Suffering,Freedom,2018,0.73,0.713,7.0,1.0,0.926,84.01,181653,['folk']
+cUvR7XjomlKmbVz7,Seam,Something's Burning,The Problem With Me,1993,0.426,0.8759999999999999,9.0,1.0,0.281,97.445,247267,"['emo', 'lo fi']"
+7z2rzquPl6jYxINe,Big Time Rush,Love Me Love Me,Elevate,2011,0.614,0.792,0.0,0.0,0.809,160.011,181360,[]
+QxfYzEDzTZv82BfL,Gary Clark Jr.,The Healing,Live North America 2016,2017,0.344,0.56,7.0,0.0,0.345,89.193,338227,['rock']
+wf2fwnSADherM0Kf,Caro Emerald,Back It Up,Deleted Scenes From The Cutting Room Floor,2010,0.905,0.789,0.0,1.0,0.7140000000000001,107.972,232813,['pop']
+JGg3sQJ6fD2m6t4K,Beirut,The Long Island Sound,Lon Gisland,2006,0.2769999999999999,0.659,0.0,0.0,0.532,58.048,78787,['soundtrack']
+FB5MzhEHZpX8g3kM,John Carpenter,Escape From New York,Escape From New York,1981,0.586,0.352,9.0,1.0,0.1009999999999999,157.79399999999995,233720,[]
+Q8smEfa6FfyISdCt,CVX,Bicara,Bicara,2017,0.49,0.612,0.0,0.0,0.359,173.886,234138,['hip hop']
+PT1Ssx6p6qtaP8QU,The Cardigans,Feathers And Down,Long Gone Before Daylight,2003,0.53,0.325,11.0,1.0,0.2289999999999999,131.739,270013,['pop']
+FgrR1JNIxivl8gcV,the i.l.y's,Wash My Hands Shorty,Bodyguard,2017,0.3929999999999999,0.865,10.0,1.0,0.3720000000000001,92.322,188363,['rock']
+DQIhGr1Ot8eBt1Xg,Sufjan Stevens,No Shade in the Shadow of the Cross,Carrie & Lowell,2015,0.405,0.121,6.0,1.0,0.347,82.721,160882,['ambient']
+jOVLCWVcfLyF5H5k,Yellowcard,Martin Sheen Or JFK,Lights And Sounds,2006,0.256,0.7559999999999999,2.0,1.0,0.268,197.512,226747,['pop']
+Ogg44HQ2vA1GzgsS,Pink Floyd,The Dogs of War,A Momentary Lapse of Reason,1987,0.2319999999999999,0.494,5.0,1.0,0.11,86.243,363721,[]
+xv85RZUdZYg8CeWs,Boa,Amor,"BoA THE LIVE 2018 ""X'mas""",2019,0.642,0.7759999999999999,9.0,0.0,0.721,108.035,236983,['pop']
+zaLYNLCx9MyAr6WZ,Satyricon,A New Enemy,"Now, Diabolical",2006,0.44,0.984,8.0,1.0,0.292,131.965,347880,['metal']
+cCcYI47nVRVELFXI,Ketzer,Satan's Boundaries Unchained,Satan's Boundaries Unchained,2009,0.355,0.978,1.0,1.0,0.0951,92.052,327427,['metal']
+N7DT10zEvmF7hKqZ,Marlene,Next To Me,Next To Me,2017,0.8059999999999999,0.6409999999999999,7.0,0.0,0.493,121.996,251187,[]
+WfWDo2UvH0ZIVGqu,Chico Buarque,Carolina,Chico Buarque de Hollanda Vol. 3,1968,0.518,0.5,4.0,1.0,0.618,126.595,159133,['rock']
+At81xEMnc9Gg0jjp,Dustin O'Halloran,We Float,Like Crazy (The Score) [Original Motion Picture Score],2011,0.355,0.0592,3.0,1.0,0.0775,109.465,91027,"['experimental', 'downtempo']"
+oz8JPZDa4Go0fjJY,Manu Gavassi,talvezeunemteame(tantoassim),CUTE BUT PSYCHO,2018,0.816,0.54,11.0,0.0,0.429,100.05,166463,[]
+4wQMsOg3wi5jEoly,Crown the Empire,Breaking Point,The Fallout (Deluxe Reissue),2013,0.45,0.937,7.0,1.0,0.297,92.431,274603,[]
+36SkV1FHIlY13WP7,Hot Mulligan,Scream Mountain,Pilot,2018,0.452,0.738,2.0,1.0,0.318,170.00599999999997,164002,"['emo', 'pop punk']"
+S7wfUeGDlSinI481,Car Seat Headrest,I Hate Living,Living While Starving,2013,0.526,0.6759999999999999,4.0,1.0,0.401,130.01,310154,[]
+PJexdPMkrlekkUcf,Alanis Morissette,Crazy - James Michael Mix,The Collection (Standard Edition),2005,0.621,0.899,7.0,1.0,0.482,104.995,218760,[]
+IPgv6XbK7r6gQy2w,Psirico,Lepo Lepo,"The 2014 FIFA World Cup Official Album: One Love, One Rhythm",2014,0.765,0.7390000000000001,9.0,1.0,0.867,139.981,201200,"['k pop', 'latin']"
+6UHk2TM1i23DdSxo,Touché Amoré,Posing Holy,Stage Four (Deluxe Edition),2016,0.359,0.978,3.0,1.0,0.2189999999999999,121.902,167747,"['emo', 'lo fi']"
+aFwpzhLOAfWjZyUh,The Radio Dept.,Going Down Swinging,Going Down Swinging,2018,0.6890000000000001,0.528,0.0,0.0,0.561,113.013,265200,['ambient']
+DLEGuclhT1ZTnBfv,The Blaze,Heaven,DANCEHALL,2018,0.632,0.457,1.0,0.0,0.0799,125.016,219280,['rock']
+k31RUdREKdKFS747,Tigers Jaw,Carry You Over,Studio 4 Acoustic Session,2015,0.669,0.499,3.0,1.0,0.488,118.911,228928,[]
+Oz6fpo2L0Wk6iHH9,Da Buzz,Where My Heart Lies,Where My Heart Lies,2018,0.542,0.8370000000000001,9.0,1.0,0.5479999999999999,121.783,190095,"['indie pop', 'downtempo']"
+srMekzwdWGZWrFhC,Pink Floyd,The Post War Dream,The Final Cut,1983,0.324,0.124,5.0,1.0,0.368,116.163,179360,['folk']
+UeFHe0E7EntwtJSo,Miami Horror,Leila,Leila (Poolside Remix),2017,0.769,0.768,4.0,0.0,0.825,103.997,318462,[]
+x7wdMRLeVIseKmKT,Rancore,INFINITO,Infinito,2017,0.3989999999999999,0.928,10.0,0.0,0.26,151.756,204309,[]
+KyQjgs9g3qtHdwzO,Ben Frost,Through the Glass of the Roof,By the Throat,2009,0.268,0.662,6.0,1.0,0.217,120.762,95936,[]
+srWYsf1nHEa0ya8a,Robyn,With Every Heartbeat - with Kleerup,Robyn,2005,0.487,0.882,4.0,0.0,0.384,120.817,255187,[]
+M8sl3gJ51Zspp1dV,Peter Gabriel,Growing Up,Up,2002,0.7070000000000001,0.61,10.0,0.0,0.3989999999999999,102.197,453373,"['experimental', 'rap']"
+dlGW0dEj86lXuQOB,The Prodigy,Omen (Noisia Remix),Invaders Must Die,2009,0.616,0.909,0.0,1.0,0.401,135.02,380533,"['rock', 'punk', 'post punk']"
+enJ08LwDwpPMrlGH,Lil Ugly Mane,UNEVEN COMPROMISE,Uneven Compromise,2017,0.457,0.957,1.0,1.0,0.243,112.26,658311,[]
+60NF4T3X1e33WFkQ,The Bright Light Social Hour,Back and Forth,The Bright Light Social Hour,2010,0.718,0.8740000000000001,1.0,1.0,0.88,134.967,233667,['indie pop']
+bYqZW9G7sBuJXwUa,I Am King,Impossible,Impossible,2018,0.455,0.758,8.0,1.0,0.3779999999999999,89.96600000000002,225884,['post hardcore']
+EDmgmp62KcRZM3Ij,Bacamarte,Último Entardecer,Depois do Fim,1983,0.266,0.473,9.0,0.0,0.148,98.879,570680,[]
+abgdqAP3B6cL7dtw,Grizzly Bear,Cut-out,Painted Ruins,2017,0.619,0.7709999999999999,5.0,0.0,0.505,93.934,225733,['experimental']
+MT6t89vklxAqsRNA,Elba Ramalho,Ai Que Saudade D'ocê,O Grande Encontro II,1997,0.723,0.596,2.0,1.0,0.413,112.121,173027,"['pop', 'folk', 'singer songwriter', 'mpb']"
+wlVmwsgf9tISmmIO,Pia Mia,Lost & Found,The Gift,2014,0.513,0.17,9.0,0.0,0.366,135.49200000000002,257947,[]
+hx3tNKVpKYUGn5fW,Virginia Wing,The Second Shift,Ecstatic Arrow,2018,0.517,0.752,2.0,1.0,0.43,95.053,181867,[]
+oROkq7uO8zgWn8X4,AlunaGeorge,Faulty,Champagne Eyes,2018,0.486,0.493,9.0,0.0,0.434,177.62099999999995,152098,[]
+Qs4P0Q4mFYvYoxaI,Red Hot Chili Peppers,Subterranean Homesick Blues,The Uplift Mofo Party Plan,1987,0.748,0.952,7.0,1.0,0.4539999999999999,110.026,154533,['hip hop']
+VRro7BgqXQzenFwx,Marcos Valle,Bicicleta,Bicicleta / Beta Menina - Single,1984,0.83,0.5770000000000001,11.0,0.0,0.961,128.999,229440,"['rock', 'latin', 'latin pop', 'swing']"
+PAyMjfF2eLoPZlNI,Poolside,Drifting,Heat,2017,0.6709999999999999,0.603,4.0,1.0,0.746,153.87,270641,[]
+irzs57ynSQhBF1Se,Bob Dylan,I Shall Be Free No. 10,Another Side Of Bob Dylan,1964,0.6659999999999999,0.486,7.0,1.0,0.7020000000000001,104.31,288333,['folk']
+qxZCDVHNc62uXa8V,Utada,Automatic Part II,This Is The One,2009,0.764,0.635,1.0,1.0,0.773,97.988,180853,[]
+gaD0Jq1IvhHrik0i,Zealyn,Enjoy Your Holiday,Enjoy Your Holiday,2018,0.5820000000000001,0.484,0.0,1.0,0.351,100.005,190907,"['rap', 'pop']"
+waf7EgKdakHiLIFb,Timbalada,A Latinha,Tribal Bahia,2003,0.4320000000000001,0.963,7.0,1.0,0.748,160.50799999999995,199720,[]
+txqWKZVHf2RucEeY,Jayme Dee,Tip Toes,Broken Record EP,2013,0.599,0.914,10.0,1.0,0.7090000000000001,159.938,169840,['pop']
+lDJid8tDX8oHLjuU,Anathema,Electricity,A Natural Disaster (Remastered),2015,0.568,0.0523,3.0,1.0,0.0396,63.962,232107,"['experimental', 'folk', 'singer songwriter', 'shoegaze']"
+cf8EsjI6kvB5AZTb,Broken Social Scene,Handjobs for the Holidays,Broken Social Scene,2005,0.478,0.916,11.0,1.0,0.575,146.49200000000005,279333,['experimental']
+WljWMIhImp5Ak6dx,Gui Boratto,Beautiful Life,Chromophobia,2007,0.4679999999999999,0.665,8.0,1.0,0.0383,124.994,507279,[]
+eA6hvYcdJJClByhR,Free Throw,Same Drugs,Missing Pieces,2018,0.47,0.451,4.0,1.0,0.195,89.992,245487,"['experimental', 'indie rock', 'folk']"
+aQtUa94cM9h8Jb4g,Brent Faiyaz,Poison,Poison,2016,0.6890000000000001,0.3939999999999999,2.0,0.0,0.382,117.489,212992,['indie pop']
+wu4kvRsjkV101PS2,Show Me The Body,Trash,Corpus I,2017,0.647,0.976,1.0,1.0,0.65,142.015,152150,[]
+VDByVpVZ6kwwCQpw,Outline in Color,Broken Record,Outline in Color,2019,0.51,0.931,8.0,1.0,0.632,129.94299999999998,233192,[]
+39NzoQaqh427BKSs,Mallu Magalhães,Versinho de Número Um,Mallu Magalhães,2009,0.6679999999999999,0.616,7.0,1.0,0.6629999999999999,127.898,154213,[]
+4Ng7S0wEJBwX3MMP,The Residents,Guylum Bardot,Meet The Residents,1974,0.439,0.506,6.0,0.0,0.421,81.118,81840,[]
+gfQoNWwOMfgYHaJJ,Lacuna Coil,Shallow Life,Shallow Life,2009,0.318,0.924,9.0,0.0,0.285,184.101,201147,['rock']
+mLOYQMMMpyUVTCYt,Cauby Peixoto,Conceição,20 Super Sucessos Cauby Peixoto,1996,0.586,0.376,0.0,1.0,0.317,111.065,194595,[]
+S6m6DZCkvCuSAoY9,MxPx,20-20 Hindsight,MxPx,2018,0.183,0.97,8.0,1.0,0.857,196.741,143475,[]
+7QrazLfTzkzOvK2m,PNL,Jusqu'au dernier gramme,Dans la légende,2016,0.762,0.6,5.0,0.0,0.39,115.908,352627,['rap']
+Fs6q9RkYfYGkUwQ8,Leonard Cohen,Iodine,Death Of A Ladies' Man,1977,0.472,0.7240000000000001,5.0,1.0,0.358,96.763,302240,"['metal', 'experimental', 'folk']"
+dd210whEmjvRTtpk,Carrie Underwood,Heartbeat,Storyteller,2015,0.54,0.7659999999999999,1.0,1.0,0.435,139.999,209920,['pop']
+2wSXTu80vbWOel9y,Alphabeat,Love On The Line,Express Non-Stop,2012,0.662,0.884,2.0,0.0,0.873,117.03,237720,[]
+yKQ5XEipqab5hnCf,Chaka Khan,La Flamme,I Feel For You,1984,0.74,0.5379999999999999,1.0,1.0,0.708,103.571,267680,[]
+mMXPIGcMRQ83xe9B,Nerf Herder,Mr. Spock,American Cheese,2002,0.56,0.902,9.0,0.0,0.54,140.061,209707,['rock']
+91KhTq1WrnAZxfsd,Bob Dylan,High Water (For Charley Patton),Love And Theft,2001,0.5539999999999999,0.66,0.0,1.0,0.679,107.457,244800,[]
+jfCb7WIXGkxdWfmn,Floridablanca,Leyendas,Leyendas,2018,0.698,0.7190000000000001,0.0,0.0,0.933,116.01,194486,[]
+DIsTmIHqCtvtaj61,Elton John,Western Ford Gateway,Empty Sky,1969,0.357,0.789,9.0,0.0,0.5820000000000001,141.84,195373,['rock']
+Dt0T8gTQBxzhqDbL,Damian Marley,Road To Zion,Welcome to Jamrock,2005,0.648,0.7040000000000001,1.0,1.0,0.482,93.388,317333,"['rap', 'hip hop']"
+lCt9W4QLiOp0ViDI,Nathy Peluso,SANDÍA,Esmeralda,2017,0.605,0.529,5.0,0.0,0.4629999999999999,72.15,226286,['latin']
+jiyCLAb4QiBXT0tW,Hauschka,Morning,Room to Expand,2006,0.5489999999999999,0.249,3.0,1.0,0.292,80.083,295987,"['ambient', 'dream pop']"
+bzojWcU7ljPu559Y,Kult,Mędracy,Kult,1987,0.764,0.632,0.0,0.0,0.884,108.937,304013,['rock']
+5gYjyuSl4Tic5mDI,Shannon and the Clams,Did You Love Me,Onion,2018,0.2189999999999999,0.706,9.0,1.0,0.43,149.775,212080,[]
+5ORG0In6W2aI8zyw,Coil,Herald,Horse Rotorvator,1986,0.584,0.456,9.0,1.0,0.499,119.884,63067,"['rock', 'punk', 'alternative rock', 'melodic hardcore']"
+XLpn3XQpgYVEzUoQ,The Byrds,The Christian Life,Sweetheart Of The Rodeo,1968,0.547,0.513,2.0,1.0,0.745,121.528,150067,[]
+DLYjOQS8MLRH3lJ1,Jennifer Lopez,Expertease (Ready Set Go),A.K.A. (Deluxe),2014,0.541,0.7759999999999999,11.0,0.0,0.317,171.83900000000003,244987,[]
+Ec5oXMzDcIrv32AS,Thiago Pethit,Voix De Ville,"Berlim, Texas",2010,0.481,0.326,4.0,0.0,0.294,79.13,163933,"['folk', 'singer songwriter', 'mpb']"
+dM2fVwqJ0OFMVt6F,Flatsound,Hummingbird,Hummingbird,2018,0.5770000000000001,0.176,2.0,1.0,0.0384,120.183,202375,[]
+ZIEGOuN6Mw0tBRj1,Therion,Helheim,Secret Of The Runes,2001,0.504,0.775,11.0,1.0,0.247,119.991,199533,"['metal', 'power metal']"
+SoGT7MjNvkWK2DGc,Mombojó,Faaca,Nadadenovo,2006,0.525,0.8,2.0,0.0,0.768,166.03900000000004,179227,['experimental']
+cqTxAPCt8qpB8EPU,Hella,Been a Long Time Cousin,Hold Your Horse Is,2002,0.3329999999999999,0.958,9.0,1.0,0.0894,141.82,230733,"['experimental', 'indie pop']"
+Y4y2wMAyHgGA5oRi,State Champs,Lightning,Living Proof,2018,0.424,0.968,10.0,1.0,0.758,195.092,176402,[]
+yfH1SiGbrZw9qZqD,We Are the In Crowd,Better Luck Next Time,Best Intentions (Re-issue),2012,0.419,0.848,6.0,1.0,0.765,183.104,171067,[]
+kM0seguSByr5tZuq,British Sea Power,Carrion,The Decline of British Sea Power,2003,0.456,0.969,7.0,1.0,0.268,126.278,246067,[]
+LGav23d32YRMqdMl,David Bowie,Telling Lies,Earthling,1997,0.504,0.737,7.0,1.0,0.384,159.985,290027,[]
+GixbKvhxrplnGJLx,Alcest,Les voyages de l'âme,Les voyages de l'âme,2012,0.24,0.5479999999999999,1.0,0.0,0.127,127.342,350320,"['folk', 'shoegaze']"
+qcmZu5zIyfe00CLU,Bee Gees,Emotion,The Record - Their Greatest Hits,2001,0.6890000000000001,0.64,4.0,0.0,0.637,91.834,218493,['pop']
+0Zx6ck8oLTKNCqSe,Gorguts,Reduced to Silence,Colored Sands,2013,0.281,0.902,1.0,1.0,0.0372,137.85299999999998,458040,['experimental']
+P2oOtxpcpamhbUxZ,PINK GUY,Hentai,Pink Season,2017,0.7170000000000001,0.3329999999999999,5.0,1.0,0.287,70.304,89174,['folk']
+UVI1BupyVL1Gf8rF,Knocked Loose,My Heroes,Laugh Tracks,2016,0.433,0.951,2.0,1.0,0.413,72.71,157670,['metal']
+1faOo1a2ylnTZHth,Beeshop,I Was Born In The 80's,"Death, Dogs and Dreams (Live in São Paulo)",2011,0.51,0.913,3.0,0.0,0.314,135.054,231405,"['rock', 'folk', 'singer songwriter']"
+4EiHK7g70V7UAt7b,Streetlight Manifesto,The Hands that Thieve,The Hands That Thieve,2013,0.534,0.897,6.0,0.0,0.887,130.144,318013,['rock']
+sZb4iu5I4X9NvIsZ,Land of Talk,Loving,Life After Youth,2017,0.498,0.84,3.0,1.0,0.514,117.16,228507,[]
+sjP3OVr48j8WWJ2S,Kevin Devine,Cotton Crush,Matter Of Time,2015,0.358,0.282,1.0,0.0,0.284,115.756,175640,['experimental']
+4Oi9S68YHqU6neVz,The Rolling Stones,Sweet Black Angel,Exile On Main Street (2010 Re-Mastered),1972,0.546,0.723,7.0,1.0,0.574,87.305,177667,"['rock', 'punk']"
+P1OVnKDAFBckeTa4,Grizzly Bear,Disappearing Act,Horn of Plenty,2004,0.375,0.445,4.0,0.0,0.1119999999999999,139.995,264240,"['post punk', 'indie rock']"
+b0ZCF6BJMUTrpijH,Arch Enemy,End of the Line,Anthems of Rebellion,2003,0.5489999999999999,0.966,10.0,0.0,0.299,122.011,215800,['metal']
+pBREBpE9L7Bi0HB2,Twin Shadow,Beg for the Night,Confess,2012,0.615,0.915,1.0,1.0,0.621,103.014,221693,['rock']
+GfX4TbSSXDPkcD1R,The Field Mice,You're Kidding Aren't You,Snowball,1989,0.585,0.784,4.0,0.0,0.735,156.165,154600,[]
+koeOag35DSAK7Giw,Immolation,Interlude,Majesty And Decay,2010,0.146,0.436,0.0,0.0,0.0405,83.4,124333,['metal']
+PVq54zrs86YcLDOQ,Katy Perry,Bon Appétit,Witness (Deluxe),2017,0.799,0.794,6.0,1.0,0.524,106.031,227813,['pop']
+azLm59t0ifyFUuJp,Incubus,Pardon Me,Make Yourself,1999,0.579,0.812,1.0,0.0,0.278,152.002,223747,['rock']
+nEchofwGXxIZzv4p,British Sea Power,Thin Black Sail,Valhalla Dancehall,2011,0.414,0.83,1.0,0.0,0.2769999999999999,96.159,106187,"['rock', 'punk', 'post hardcore']"
+N6Uk7HsAhJPBfrVB,Lea Michele,Louder,Louder,2014,0.342,0.436,0.0,1.0,0.237,140.22799999999998,255293,[]
+lp6dT5ZbHwGzzcEE,Emphatic,Bounce,Damage,2011,0.597,0.934,7.0,1.0,0.7290000000000001,127.918,182973,"['rock', 'post hardcore']"
+lUULW1UDykOZIygw,Circa Survive,Glass Arrows,Blue Sky Noise (Deluxe - Remastered),2018,0.397,0.87,5.0,0.0,0.2289999999999999,150.054,252187,['rap']
+H2D9Sx29y3tNuPhH,Nails,I Will Not Follow,Unsilent Death,2010,0.195,0.945,8.0,1.0,0.123,126.285,88160,"['metal', 'experimental']"
+5JxrSsUiaKmVUMZH,Pond,"Goodnight, P.C.C.",Tasmania,2019,0.461,0.747,6.0,1.0,0.318,139.974,324200,[]
+8gG5cHAgGqWjnb6T,Planning for Burial,Humming Quietly,Leaving,2015,0.4039999999999999,0.642,8.0,0.0,0.455,70.197,242298,"['experimental', 'shoegaze']"
+wbXMGOUIxyfMbukf,altopalo,Frozen Away,Blur // Frozen Away,2018,0.556,0.2269999999999999,10.0,0.0,0.165,91.985,168919,"['trip hop', 'ambient']"
+JMBKw316actRdZxt,Arabesque,In The Heat Of A Disco-Night - Megamix-Version,The Best Of Vol. IV - The Megamixes,2008,0.693,0.93,10.0,0.0,0.743,125.077,178560,[]
+AATVAbsyYk4XeTOw,Legião Urbana,Conexão amazônica,Que Pais E Este,1987,0.4579999999999999,0.5589999999999999,2.0,1.0,0.48,146.137,278933,[]
+BeVytZFAy1gM82sw,Gal Costa,Passarinho,India,1973,0.5589999999999999,0.133,10.0,1.0,0.301,78.507,327573,"['folk', 'singer songwriter']"
+jdArnW1uWOw2apLx,Brand New,In a Jar,Daisy,2009,0.536,0.889,4.0,0.0,0.487,124.03,185960,['indie rock']
+mFDb3cgAdZnjcyAn,Noisia,Lilith's Club,Devil May Cry (Original Game Soundtrack),2013,0.5429999999999999,0.794,7.0,1.0,0.174,124.981,326400,[]
+kGGmcm7tOWKirswJ,Raubtier,Det finns bara krig,Det finns bara krig,2009,0.54,0.955,1.0,0.0,0.182,95.02,214200,[]
+veYoMnZZQMlWJJ4N,August Burns Red,The Escape Artist,Constellations (Remixed),2019,0.2239999999999999,0.939,1.0,1.0,0.206,101.971,236651,"['metal', 'post hardcore']"
+OLO4GQi3SKmOIpGY,Weyes Blood,Bad Magic,The Innocents,2014,0.294,0.275,9.0,1.0,0.11,83.164,354773,"['folk', 'singer songwriter', 'latin']"
+9OVSZf4JiJC7jVEP,Caetano Veloso,Coisa Mais Linda,Uns,1983,0.501,0.156,2.0,1.0,0.198,117.749,195373,['folk']
+sNVWhzs0ZHrrrnCC,Hoobastank,Unaffected,The Reason,2004,0.4029999999999999,0.87,9.0,0.0,0.239,84.95299999999997,213627,['rock']
+cUwO08PluHkE2ldk,T. Rex,Laser Love,Bump'n'grind,2019,0.627,0.677,7.0,1.0,0.725,145.01,229880,['rock']
+DAAa7X99EglPFl1p,Gabrielle Aplin,Sweet Nothing,Light Up The Dark (Deluxe Edition),2015,0.417,0.902,9.0,1.0,0.659,183.157,173547,[]
+vZwGV69wl3vgsyoS,Vanessa da Mata,Fotografia,Vanessa da Mata canta Tom Jobim (Deluxe Edition),2013,0.715,0.309,9.0,0.0,0.563,98.071,146373,['pop']
+eRTKgrX4QCA6hKVA,The Cheetah Girls,Cheetah Love,The Cheetah Girls: One World,2008,0.72,0.894,11.0,0.0,0.939,132.067,193960,['pop']
+DMofLKJKFt2DL27O,eli filosov [ p h i l o ],inthisworld,2007,2016,0.5820000000000001,0.442,6.0,1.0,0.482,77.604,89615,[]
+ohbvGoXAJ9BPZk51,Lindsay Lohan,Very Last Moment in Time,Speak,2004,0.426,0.7959999999999999,1.0,1.0,0.473,177.032,208307,[]
+myvcxVGQCku2sNtQ,Patsy Cline,You Made Me Love You (I Didn't Want to Do It),Sentimentally Yours,1962,0.5820000000000001,0.207,0.0,1.0,0.446,115.216,167200,['folk']
+5tmo83J7QjlbwCwC,HVOB,Oxid,Trialog,2015,0.815,0.59,7.0,1.0,0.181,118.0,461745,['ambient']
+tONQR5NegTXhbfr3,MC5,Looking at You,Back In The USA,1970,0.451,0.802,2.0,1.0,0.89,92.216,181307,['rock']
+Wr5c7w0V7C2a64mj,Brendan Maclean,Hibernia,And the Boyfriends,2019,0.669,0.642,5.0,1.0,0.622,104.999,227667,['experimental']
+Kvmlm7B8Xikn4GDy,haon,FLOWER,Flower,2019,0.895,0.804,10.0,1.0,0.725,142.02200000000005,247287,['rap']
+YRDosAWoKtA4gZa5,Pretty Lights,Yellow Bird,A Color Map of the Sun (Deluxe Version),2013,0.596,0.6559999999999999,4.0,1.0,0.198,86.48899999999998,339956,['experimental']
+ORs668oiD2CqSwqb,Avril Lavigne,Bad Girl (feat. Marilyn Manson),Avril Lavigne (Expanded Edition),2013,0.429,0.939,0.0,1.0,0.335,157.989,174907,[]
+QfUglc6m1JIYhXRH,Patti Smith,Break It Up,Horses (Legacy Edition),1975,0.38,0.535,2.0,1.0,0.3279999999999999,143.592,241267,[]
+UINiUx9qvN5zK4z1,Grouper,I'm Dragging a Dead Deer Up a Hill,Dragging a Dead Deer Up a Hill,2007,0.143,0.145,0.0,1.0,0.0303,140.166,141747,"['soundtrack', 'folk', 'singer songwriter', 'blues rock']"
+W93eI0Khboh8VDof,Stitched Up Heart,I Can't Breathe,Never Alone,2016,0.472,0.843,5.0,1.0,0.156,122.089,252520,[]
+Oaq3jyIh9nlTLRSo,Four Tet,SW9 9SL,New Energy,2017,0.71,0.8320000000000001,4.0,0.0,0.282,128.99,475639,['ambient']
+89jtSeMyG0IpUj3y,Jeff Buckley,Dream Brother - (Alternate Take),Grace (Legacy Edition),1994,0.581,0.487,0.0,1.0,0.294,95.974,295773,[]
+4JCMbZBHKiJLycIL,Jason Isbell,Cover Me Up,Southeastern,2013,0.429,0.093,3.0,1.0,0.208,129.661,293973,['folk']
+ThlAN4ghmf6UNUg9,Scar Symmetry,Morphogenesis,Holographic Universe,2008,0.465,0.94,2.0,0.0,0.478,120.015,234373,['rock']
+8nkqiAC17EPLqD2z,Swans,When Will I Return?,The Glowing Man,2016,0.163,0.385,2.0,1.0,0.074,73.03399999999998,326617,"['folk', 'singer songwriter']"
+AP8k4SmU3vQNEUbB,El Michels Affair,C.R.E.A.M.,Enter The 37th Chamber,2012,0.5710000000000001,0.508,11.0,0.0,0.102,96.825,174827,['ambient']
+5Ld6YBD1WY6rRF65,Hooverphonic,Barabas,A New Stereophonic Sound Spectacular,1997,0.637,0.816,5.0,0.0,0.547,100.557,228733,['folk']
+l2ADPhbtON9vrTYT,J Mascis,Listen To Me,Several Shades of Why,2011,0.505,0.385,7.0,1.0,0.228,136.159,190240,['folk']
+tLG3NIT1e5dZ5HgP,Paul Simon,Armistice Day,Paul Simon,1972,0.512,0.27,7.0,1.0,0.278,115.219,235507,"['rock', 'singer songwriter', 'classic rock']"
+K1CUNT6J2BvK80bU,U-KISS,Tick Tack,U-KISS JAPAN BEST COLLECTION 2011-2016,2016,0.579,0.918,1.0,0.0,0.955,138.96,219655,[]
+2KjrfARNuA9LZL5J,Kabanjak,Revelation Dub,A Decade of Dope Beats (2001 - 2011),2011,0.528,0.8079999999999999,7.0,1.0,0.588,163.998,215148,"['experimental', 'ambient']"
+zejGexcIs9m7sPVN,Drik Barbosa,1992,1992,2017,0.682,0.484,1.0,1.0,0.4479999999999999,144.931,146897,"['rap', 'hip hop']"
+zD2zwpRSfnvd4UjH,James Vincent McMorrow,Down the Burning Ropes,Early in the Morning (Bonus Version),2011,0.617,0.376,10.0,0.0,0.146,116.929,300200,"['folk', 'singer songwriter']"
+TevEEPqdLp0O4Ska,Alice Guél,Deus é travesti,Alice no País Que Mais Mata Travestis,2017,0.63,0.899,10.0,0.0,0.361,179.86,276731,[]
+ntm22xywoPXeFZ63,Rodriguez,"This Is Not A Song, It's An Outburst: Or, The Establishment Blues",Cold Fact,1970,0.625,0.684,4.0,1.0,0.833,119.779,126867,[]
+sJiUq12OsTNT5bjh,Ansel Elgort,Home Alone,Home Alone,2016,0.445,0.797,4.0,1.0,0.115,135.069,256000,['rock']
+6dRwh7Mxz6MVk3Wl,Ween,Don't Get 2 Close (2 My Fantasy),Pure Guava,1992,0.535,0.601,0.0,1.0,0.6659999999999999,83.34200000000001,204373,"['indie rock', 'indie pop']"
+2CRVi4QcbgnryXAr,Phantogram,Barking Dog,Three,2016,0.491,0.49,11.0,1.0,0.285,111.217,182960,['folk']
+Y1uACGkLyWAiHhb6,Gorillaz,Fire Flies,The Now Now,2018,0.346,0.511,4.0,0.0,0.212,134.92700000000002,233373,[]
+liLtnUwEyYBOmRZX,GIRLI,Mr 10pm Bedtime,Hot Mess - EP,2017,0.4479999999999999,0.873,0.0,1.0,0.6559999999999999,199.513,188364,['pop']
+ALrgmbtARfJpjLG4,The Ting Tings,Hang It Up,Sounds From Nowheresville,2012,0.769,0.8740000000000001,6.0,1.0,0.812,101.495,191107,['metal']
+KcujhEKxnuFOzGhr,Sam Cooke,Sugar Dumpling,30 Greatest Hits: Portrait of a Legend 1951-1964,1960,0.6,0.5770000000000001,10.0,1.0,0.961,127.379,165173,['jazz']
+jy9wm9zprQGR1UDJ,Empire of the Sun,On Our Way Home,On Our Way Home,2017,0.611,0.8420000000000001,1.0,1.0,0.799,95.068,183845,['pop']
+sNdypZclTNL2FV24,VOLA,Whaler,Applause Of A Distant Crowd,2018,0.411,0.769,2.0,1.0,0.532,133.036,327627,"['experimental', 'hip hop', 'ambient', 'drone', 'djent']"
+bpEs6TI0BedQ56UM,JPEGMAFIA,The 27 Club,Black Ben Carson,2016,0.4629999999999999,0.657,1.0,1.0,0.569,101.005,236476,['rap']
+pODsAjMpItjuLgfS,Black Kids,If My Heart Is Broken,Rookie,2017,0.375,0.939,0.0,1.0,0.743,205.879,251418,[]
+1MARgETwxtfvRSVl,Liars,Cred Woes,TFCF,2017,0.7979999999999999,0.6990000000000001,0.0,0.0,0.195,139.09799999999998,226840,[]
+lYkdeX8YYf5Bw2Xt,Paul Desmond,Take Ten,Greatest Hits Series--Paul Desmond,1997,0.467,0.184,0.0,1.0,0.518,74.123,187106,[]
+laLr13V3c2dkeZP2,Judee Sill,The Donor,Heart Food,1973,0.235,0.289,4.0,0.0,0.218,131.11700000000002,485893,"['folk', 'singer songwriter']"
+Rt2nTVWsrrnLiSWx,Bleed from Within,The Awakening,Humanity,2009,0.517,0.957,6.0,1.0,0.133,129.928,125000,[]
+5m6VJyANKGfdLnjD,Roxy Music,Bitters End,Roxy Music (Remastered),1972,0.413,0.362,5.0,1.0,0.564,118.212,123400,[]
+fX9vUS5o1WFHbZY7,Sparklehorse,Gasoline Horseys,Vivadixiesubmarinetransmissionplot,1995,0.38,0.644,8.0,0.0,0.0595,62.515,160400,"['indie pop', 'folk']"
+FAsFwoomCjc672Uu,No Doubt,Greener Pastures,The Beacon Street Collection,1995,0.5760000000000001,0.688,0.0,1.0,0.6659999999999999,133.876,305533,['pop']
+Y8Khu4YZ4Z8EdwZV,Hot Chip,So Much Further To Go,Why Make Sense? (Definitive Version),2015,0.6659999999999999,0.358,1.0,0.0,0.314,134.09,192181,['pop']
+VYkwcfMPH9eHRMxU,Ewert and the Two Dragons,Pictures,Circles,2015,0.595,0.7809999999999999,2.0,1.0,0.69,113.018,281418,['rock']
+HJzUVTLYr81vMA1I,Qveen Herby,Wifey,Wifey,2017,0.777,0.664,1.0,1.0,0.39,127.961,201402,"['pop', 'latin']"
+mMBfsRdBOk8dk5hz,Tom Waits,Cold Cold Ground,Franks Wild Years,1987,0.622,0.0991,0.0,1.0,0.253,134.626,247827,"['folk', 'singer songwriter', 'mpb']"
+IZoM5ZjLRbbau3lo,Moldanazar,Janym Sol,Janym Sol,2017,0.557,0.603,5.0,1.0,0.0688,89.96,188000,[]
+21YRYgGZnrg9iVIc,Ben Frost,We Love You Michael Gira,Theory of Machines,2007,0.547,0.053,0.0,1.0,0.0337,108.999,469000,[]
+5BZVQXW1a0lF4rYH,Motirô,Senhorita,Um Passo à Frente,2006,0.846,0.591,1.0,0.0,0.8290000000000001,94.034,255987,['rap']
+qxhkFGizb1LmLslS,Talos,In Time,In Time,2015,0.385,0.407,1.0,1.0,0.134,121.476,275343,[]
+wumbQrwo527kBfBA,John Frusciante,With No One,To Record Only Water For Ten Days (U.S. Version),2001,0.324,0.528,6.0,0.0,0.265,102.948,211533,"['post punk', 'experimental']"
+8hrhJkwdHuamVYLo,Possuído Pelo Cão,Catholic Beast,Possessed To The Circle Pit,2008,0.317,0.7909999999999999,2.0,1.0,0.491,108.901,63399,"['rock', 'punk']"
+RZAfN9YlsD6eb0Z0,Ghostemane,Black Blood,N / O / I / S / E,2018,0.506,0.618,8.0,1.0,0.1119999999999999,179.90099999999995,121801,['experimental']
+TnMG4CJTy7Y65pTJ,65daysofstatic,Hole,The Fall of Math,2004,0.2239999999999999,0.8959999999999999,7.0,1.0,0.24,94.884,273773,[]
+tcb8BLreBioUNujQ,Gal Costa,Língua do P,Le Gal,1970,0.5579999999999999,0.41,4.0,1.0,0.703,117.31,222000,"['folk', 'singer songwriter', 'mpb']"
+OnBxuJqH0NCylS1u,Ruth Lorenzo,Moscas Muertas,Loveaholic,2018,0.636,0.523,7.0,1.0,0.3339999999999999,129.866,228440,['indie rock']
+17sIiOQHcSS6jmJq,Take That,How Did It Come to This,The Circus,2008,0.598,0.804,7.0,1.0,0.4,113.999,190427,['rock']
+a8hdBZxSJgIhULh5,Nara Leão,Debaixo Dos Caracóis Dos Seus Cabelos,20 Grandes Sucessos De Nara Leao,1998,0.659,0.297,2.0,1.0,0.552,131.607,186493,"['pop', 'latin']"
+AsAlZvBDpGfjvhin,DEUX,Everybody's Night,Golden Dreams,2013,0.8079999999999999,0.59,1.0,0.0,0.8270000000000001,115.796,335812,[]
+kcZS8vxiSTsvqdOC,The Sundays,When I'm Thinking About You,Static & Silence,1997,0.5760000000000001,0.45,11.0,1.0,0.261,143.984,257507,"['folk', 'singer songwriter']"
+KyWhxsglOjEk1jqg,Aviões do Forró,Amor de motel,Aviões Do Forró Vol. 2,2012,0.564,0.919,1.0,0.0,0.737,186.002,198577,"['pop', 'mpb']"
+yvNfribhGRc5QIwB,Northlane,Obelisk,Node,2015,0.4679999999999999,0.955,6.0,0.0,0.307,107.489,254492,[]
+53B0cql16a5Godac,Cody Simpson,No Ceiling,Surfers Paradise (Expanded),2019,0.7140000000000001,0.8270000000000001,8.0,1.0,0.654,87.98899999999998,216893,[]
+Icq2wQSw1Se8mtaB,Bear in Heaven,Lovesick Teenagers,Beast Rest Forth Mouth,2009,0.551,0.879,2.0,1.0,0.447,90.009,195560,[]
+1tho4AsSUx5CUbvp,Broken Social Scene,Windsurfing Nation,Broken Social Scene,2005,0.48,0.885,11.0,0.0,0.382,169.442,275960,['indie rock']
+RNTwNlLN2mtPQfy0,Kelis,Lil Star,Kelis Was Here,2006,0.853,0.6940000000000001,9.0,1.0,0.647,120.001,295933,['pop']
+NeJ87WaiVhRmZvwi,Depeche Mode,Always,Delta Machine,2013,0.622,0.491,6.0,1.0,0.472,142.341,305413,['ambient']
+UuAv6BaERUk1PkhK,Megadeth,Angry Again,Hidden Treasures,1995,0.6890000000000001,0.7190000000000001,3.0,0.0,0.959,127.982,227973,[]
+3MkISgPZJU0bychu,The White Buffalo,Into the Sun,Prepare for Black and Blue - EP,2010,0.534,0.317,0.0,1.0,0.263,133.858,188000,"['rock', 'folk', 'singer songwriter']"
+qBN7BnrB9uSXZDDg,Bathory,The Revenge of the Blood on Ice,Blood on Ice,1996,0.177,0.911,10.0,1.0,0.103,156.018,592493,['metal']
+vvNFC35WqTaSAFsO,Deftones,Hexagram,Deftones,2003,0.2239999999999999,0.967,6.0,1.0,0.236,97.502,250893,"['post hardcore', 'hardcore']"
+ZLTgggcn9mzPGtBo,Lou Reed,Heavenly Arms,The Blue Mask,1982,0.547,0.84,7.0,1.0,0.54,116.169,287627,[]
+JtoOtR9E14ZA4Gbj,Xiu Xiu,Luber,Knife Play,2002,0.406,0.679,0.0,1.0,0.153,120.921,242840,"['rap', 'ambient', 'electro']"
+h5rTrjvSadRgn0Pc,The Cars,Don't Cha Stop,The Cars,1978,0.524,0.901,4.0,1.0,0.867,156.578,183107,['rock']
+uYq8wCX2JkgdwIT1,The Hives,Hey Little World,The Black And White Album,2007,0.474,0.93,7.0,1.0,0.603,160.08700000000005,202760,['rock']
+Q3fJPbY4Ghbv1YYC,Jeff Buckley,Witches' Rave,Sketches for My Sweetheart The Drunk,1998,0.4579999999999999,0.721,5.0,1.0,0.342,180.743,279400,"['folk', 'mpb']"
+yIul7Xf9NqZByUX7,Collective Soul,Where the River Flows,Collective Soul,1995,0.733,0.7240000000000001,0.0,1.0,0.964,127.632,215867,[]
+vqANcZIrK0vNveYR,Life Without Buildings,New Town,Any Other City,2001,0.617,0.718,7.0,1.0,0.28,134.79,353200,"['rock', 'post punk']"
+aYbeIeLYrFWl2pwr,MV Bill,Soldado do Morro,Traficando Informação,1999,0.68,0.585,3.0,0.0,0.541,78.078,412395,['rap']
+5ArAw1CKRcINcQyU,Gusttavo Lima,Balada - Ao Vivo,Gusttavo Lima E Você - Ao Vivo (CD),2012,0.675,0.958,11.0,0.0,0.813,128.006,201840,[]
